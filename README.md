@@ -1,7 +1,7 @@
 # bus Hà Nội
 |Tuyến|Màu nhận diện|Đầu A|-|Đầu B|Tần suất (phút)|Giá vé/lượt|Thời gian HĐ|TGHĐ (Cuối tuần)|Cự li|Đơn vị quản lí|Dòng xe
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|E11|$${\color{#89F336}■ \color{black}■}$$|Yên Phụ ([ĐTC Long Biên](https://maps.app.goo.gl/rdQtHfaXdEi69SXN9)) ↔ Hồ Tây ↔ Lăng Bác|**↔**|Cửa Nam ↔ Bờ Hồ ↔ Yên Phụ ([ĐTC Long Biên](https://maps.app.goo.gl/rdQtHfaXdEi69SXN9))|12 - 18|0.000 ₫|**Yên Phụ ↔ Bờ Hồ**: 7:06 - 18:12<br>**Yên Phụ ↔ Hồ Tây**: 7:00 - 18:06|**〇**|? km|**Công ty TNHH DVVT sinh thái VinBus**|VinFast Green Bus 8
+|E11|$${\color{#89F336}■ \color{black}■}$$|Yên Phụ ([ĐTC Long Biên](https://maps.app.goo.gl/rdQtHfaXdEi69SXN9)) ↔ Hồ Tây ↔ Lăng Bác|**↔**|Cửa Nam ↔ Bờ Hồ ↔ Yên Phụ ([ĐTC Long Biên](https://maps.app.goo.gl/rdQtHfaXdEi69SXN9))|12 - 18|0.000 ₫|**Yên Phụ ↔ Bờ Hồ**: 7:06 - 18:12<br>**Yên Phụ ↔ Hồ Tây**: 7:00 - 18:06|**〇**|? km|**VinBus**|VinFast Green Bus 8
 |01|$${\color{#111184}■ \color{#90D5FF}■}$$|[BX Gia Lâm](https://maps.app.goo.gl/JaXsj5EZGNF1ZJcn7)|**↔**|[BX Yên Nghĩa](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)|11 - 13 - 15 - 20|10.000 ₫|5:00 - 21:00|**〇**|21.5 km|XN bus Hà Nội **(Transerco)**|Daewoo BC110
 |02|$${\color{#111184}■ \color{#90D5FF}■}$$|Bác Cổ ([ĐTC Trần Khánh Dư](https://maps.app.goo.gl/8PAhti9WTfDAX9LQA))|**↔**|[BX Yên Nghĩa](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)|10 - 15|10.000 ₫|5:00 - 22:30|**〇**|16.8 km|XN bus nhanh BRT Hà Nội **(Transerco)**|Daewoo BC110
 |03A|$${\color{#111184}■ \color{#90D5FF}■}$$|[BX Giáp Bát](https://maps.app.goo.gl/yDVCSeXj2rsr3hGL9)|**↔**|[BX Gia Lâm](https://maps.app.goo.gl/JaXsj5EZGNF1ZJcn7)|11 - 13 - 16 - 20|10.000 ₫|5:03 - 21:03|**〇**|15.15 km|XN bus Hà Nội **(Transerco)**|Samco City M76 BXM3
@@ -51,7 +51,7 @@
 
 
 |39|$${\color{#111184}■ \color{#90D5FF}■}$$|[Công viên Nghĩa Đô](https://maps.app.goo.gl/4U4MfTau4RebQPJY8)|**↔**|[Mai Động](https://maps.app.goo.gl/pMmm4kNFkMzsgAXJ8)|15 - 20|12.000 ₫|5:00 - 21:20|**〇**|25.4 km|XN xe khách Nam Hà Nội **(Transerco)**|VinFast Green Bus 8
-|43|$${\color{#89F336}■ \color{black}■}$$|Kim Mã ([BX Kim Mã](https://maps.app.goo.gl/6xmv3q6foTNgZeBv6))|**↔**|[Thị trấn Đông Anh](https://maps.app.goo.gl/NEJ7PnsKFzjedaqV6)|15 - 20|12.000 ₫|5:00 - 21:00|**〇**|26.8 km|**Công ty TNHH DVVT sinh thái VinBus**|VinFast Green Bus 8
+|43|$${\color{#89F336}■ \color{black}■}$$|Kim Mã ([BX Kim Mã](https://maps.app.goo.gl/6xmv3q6foTNgZeBv6))|**↔**|[Thị trấn Đông Anh](https://maps.app.goo.gl/NEJ7PnsKFzjedaqV6)|15 - 20|12.000 ₫|5:00 - 21:00|**〇**|26.8 km|**VinBus**|VinFast Green Bus 8
 |47A|$${\color{#111184}■ \color{#90D5FF}■}$$|Long Biên ([ĐTC Long Biên](https://maps.app.goo.gl/rdQtHfaXdEi69SXN9))|**↔**|[Bát Tràng](https://maps.app.goo.gl/EXU97o2pujpQ6PkN9)|20 - 25|10.000 ₫|5:00 - 21:30|**〇**|17.8 km|Công ty Cổ phần Vận tải Newway **(Transerco)**|VinFast Green Bus 8
 |47B|$${\color{#111184}■ \color{#90D5FF}■}$$|[Đại học Kinh tế Quốc Dân](https://maps.app.goo.gl/Tyijp88UMPiSK9Fk6) (cổng Trần Đại Nghĩa)|**↔**|[Kiêu Kỵ](https://maps.app.goo.gl/Z3BUPHyWXQSnj5Zi9) (KĐT Ocean Park)|20 - 25 - 30|12.000 ₫|**ĐH Kinh tế Quốc dân**: 5:00 - 21:10<br>**Kiêu Kỵ**: 5:05 - 21:25|**〇**|29.4 km|Công ty Cổ phần Vận tải Newway **(Transerco)**|VinFast Green Bus 8
 
