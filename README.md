@@ -1,4 +1,4 @@
-# XeBuytHanoi
+# Xe Buýt Hà Nội
 |Tuyến|Màu nhận diện|Đầu A|-|Đầu B|Tần suất (phút)|Giá vé/lượt|Thời gian HĐ|TGHĐ (Cuối tuần)|Cự li|Đơn vị quản lí|Dòng xe
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |E11|$${\color{#89F336}■ \color{black}■}$$|Yên Phụ ([ĐTC Long Biên](https://maps.app.goo.gl/rdQtHfaXdEi69SXN9)) ↔ Hồ Tây ↔ Lăng Bác|**↔**|Cửa Nam ↔ Bờ Hồ ↔ Yên Phụ ([ĐTC Long Biên](https://maps.app.goo.gl/rdQtHfaXdEi69SXN9))|12 - 18|0.000 ₫|**Yên Phụ ↔ Bờ Hồ**: 7:06 - 18:12<br>**Yên Phụ ↔ Hồ Tây**: 7:00 - 18:06|**〇**|? km|**Công ty TNHH DVVT sinh thái VinBus**|VinFast Green Bus 8
