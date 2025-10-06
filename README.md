@@ -1,7 +1,7 @@
-# bus Hà Nội
+# Xe buýt Hà Nội
 |Tuyến|Màu nhận diện|Đầu A|-|Đầu B|Tần suất (phút)|Giá vé/lượt|Thời gian HĐ|TGHĐ (Cuối tuần)|Cự li|Đơn vị quản lí|Dòng xe
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|E11|$${\color{#89F336}■ \color{black}■}$$|Yên Phụ ([ĐTC Long Biên](https://maps.app.goo.gl/rdQtHfaXdEi69SXN9)) ↔ Hồ Tây ↔ Lăng Bác|**↔**|Cửa Nam ↔ Bờ Hồ ↔ Yên Phụ ([ĐTC Long Biên](https://maps.app.goo.gl/rdQtHfaXdEi69SXN9))|12 - 18|0.000 ₫|**Yên Phụ ↔ Bờ Hồ**: 7:06 - 18:12<br>**Yên Phụ ↔ Hồ Tây**: 7:00 - 18:06|**〇**|? km|**VinBus**|VinFast Green Bus 8
+|:---:|---|---|---|---|---|---|---|:---:|:---:|---|---|
+|E11<br>$${\color{#89F336}■ \color{black}■}$$||Yên Phụ ([ĐTC Long Biên](https://maps.app.goo.gl/rdQtHfaXdEi69SXN9)) ↔ Hồ Tây ↔ Lăng Bác|**↔**|Cửa Nam ↔ Bờ Hồ ↔ Yên Phụ ([ĐTC Long Biên](https://maps.app.goo.gl/rdQtHfaXdEi69SXN9))|12 - 18|0.000 ₫|**Yên Phụ ↔ Bờ Hồ**: 7:06 - 18:12<br>**Yên Phụ ↔ Hồ Tây**: 7:00 - 18:06|**〇**|? km|**VinBus**|VinFast Green Bus 8
 |01|$${\color{#111184}■ \color{#90D5FF}■}$$|[BX Gia Lâm](https://maps.app.goo.gl/JaXsj5EZGNF1ZJcn7)|**↔**|[BX Yên Nghĩa](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)|11 - 13 - 15 - 20|10.000 ₫|5:00 - 21:00|**〇**|21.5 km|XN bus Hà Nội **(Transerco)**|Daewoo BC110
 |02|$${\color{#111184}■ \color{#90D5FF}■}$$|Bác Cổ ([ĐTC Trần Khánh Dư](https://maps.app.goo.gl/8PAhti9WTfDAX9LQA))|**↔**|[BX Yên Nghĩa](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)|10 - 15|10.000 ₫|5:00 - 22:30|**〇**|16.8 km|XN bus nhanh BRT Hà Nội **(Transerco)**|Daewoo BC110
 |03A|$${\color{#111184}■ \color{#90D5FF}■}$$|[BX Giáp Bát](https://maps.app.goo.gl/yDVCSeXj2rsr3hGL9)|**↔**|[BX Gia Lâm](https://maps.app.goo.gl/JaXsj5EZGNF1ZJcn7)|11 - 13 - 16 - 20|10.000 ₫|5:03 - 21:03|**〇**|15.15 km|XN bus Hà Nội **(Transerco)**|Samco City M76 BXM3
