@@ -1,6 +1,7 @@
 # Xe buýt Hà Nội
 |Tuyến|Đầu A|Đầu B|Tần suất (phút)|Giá vé/lượt|Thời gian HĐ|TGHĐ (Cuối tuần)|Đơn vị quản lí
 |:---:|---|---|---|---|---|:---:|---|
+|BRT 01<br>$${\color{#111184}■ \color{blue}■ \color{white}■}$$|[BX Yên Nghĩa](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)|Kim Mã ([BX Kim Mã](https://maps.app.goo.gl/6xmv3q6foTNgZeBv6))|5 - 10 - 15|8.000 ₫|5:00 - 22:00|**<CHỦ NHẬT>**<br><br>**Kim Mã**: 5:00 - 22:03|XN bus nhanh Hà Nội **(Transerco)**
 |E11<br>$${\color{#89F336}■ \color{black}■}$$|Yên Phụ ([ĐTC Long Biên](https://maps.app.goo.gl/rdQtHfaXdEi69SXN9)) ↔ Hồ Tây ↔ Lăng Bác|Cửa Nam ↔ Bờ Hồ ↔ Yên Phụ ([ĐTC Long Biên](https://maps.app.goo.gl/rdQtHfaXdEi69SXN9))|12 - 18|0.000 ₫|**Yên Phụ ↔ Bờ Hồ**: 7:06 - 18:12<br>**Yên Phụ ↔ Hồ Tây**: 7:00 - 18:06|**〇**|**VinBus**
 |01<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[BX Gia Lâm](https://maps.app.goo.gl/JaXsj5EZGNF1ZJcn7)|[BX Yên Nghĩa](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)|11 - 13 - 15 - 20|10.000 ₫|5:00 - 21:00|**〇**|XN bus Hà Nội **(Transerco)**
 |02<br>$${\color{#111184}■ \color{#90D5FF}■}$$|Bác Cổ ([ĐTC Trần Khánh Dư](https://maps.app.goo.gl/8PAhti9WTfDAX9LQA))|[BX Yên Nghĩa](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)|10 - 15|10.000 ₫|5:00 - 22:30|**〇**|XN bus nhanh Hà Nội **(Transerco)**
@@ -55,7 +56,7 @@
 |47B<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[Đại học Kinh tế Quốc Dân](https://maps.app.goo.gl/Tyijp88UMPiSK9Fk6) (cổng Trần Đại Nghĩa)|[Kiêu Kỵ](https://maps.app.goo.gl/Z3BUPHyWXQSnj5Zi9) (KĐT Ocean Park)|20 - 25 - 30|12.000 ₫|**ĐH Kinh tế Quốc dân**: 5:00 - 21:10<br>**Kiêu Kỵ**: 5:05 - 21:25|**〇**|Công ty Cổ phần Vận tải Newway **(Transerco)**
 
 
-|Tuyến<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN  **(Transerco)**|PHƯƠNGTIỆN
+|Tuyến<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN  **(Transerco)**
 
 <details>
 <summary>DANH SÁCH CÁC TUYẾN bus TẠI HÀ NỘI</summary>
