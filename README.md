@@ -10,6 +10,15 @@
 
 **LỖI**
 > - Khi xem trên giao diện mobile sẽ bị khuyết thiếu màu nhận diện của tuyến
+
+**CHÚ THÍCH**
+
+**〇**: như bình thường (các tuyến có thời gian chạy cuối tuần như ngày thường)<br>
+**↔**:
+> - Các tuyến có lộ trình vòng kín sẽ hiển thị đầu điểm là **[A ↔ B ↔ C]**, **[D ↔ E ↔ A]**
+> - Các tuyến chạy lộ trình dài hoặc có trùng điểm đầu cuối với các tuyến khác sẽ được bổ sung chi tiết lộ trình bằng kí tự **↔**
+<hr>
+
 ## Các tuyến buýt có trợ giá
 |Tuyến|Đầu A|Đầu B|Tần suất (phút)|Giá vé|Thời gian HĐ|TGHĐ (Cuối tuần)|Đơn vị quản lí
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
