@@ -68,8 +68,8 @@
 ### Tuyến buýt không trợ giá trong địa phận thành phố
 |Tuyến|Đầu A|Đầu B|Tần suất (phút)|Giá vé|Thời gian HĐ|Đơn vị quản lí
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|70A<br>$${\color{yellow}■ \color{#ff000d}■}$$|[BX Mỹ Đình](https://maps.app.goo.gl/YXchixi7wKaWwNkS7)|[Trung Hà](link) (Ba Vì)|GIÃN|15.000 ₫ - 20.000 ₫ (chặng)<br>35.000 ₫ (tuyến)|THỜIGIAN|XN  **(Transerco)**
-|70B<br>$${\color{yellow}■ \color{#ff000d}■}$$|[BX Mỹ Đình](https://maps.app.goo.gl/YXchixi7wKaWwNkS7)|[Phú Cường](link) (Ba Vì)|GIÃN|15.000 ₫ - 20.000 ₫ (chặng)<br>35.000 ₫ (tuyến)|THỜIGIAN|XN  **(Transerco)**
+|70A<br>$${\color{yellow}■ \color{#ff000d}■}$$|[BX Mỹ Đình](https://maps.app.goo.gl/YXchixi7wKaWwNkS7)|[Trung Hà](link) (Ba Vì)|GIÃN|15.000 ₫ - 20.000 ₫ (chặng)<br>35.000 ₫ (tuyến)|? -  18:00|**Công ty Cổ phần Vận tải ô tô khách Hà Tây**
+|70B<br>$${\color{yellow}■ \color{#ff000d}■}$$|[BX Mỹ Đình](https://maps.app.goo.gl/YXchixi7wKaWwNkS7)|[Phú Cường](https://maps.app.goo.gl/X5dXtqgiau4sc8ZV8) (Ba Vì)|GIÃN|15.000 ₫ - 20.000 ₫ (chặng)<br>35.000 ₫ (tuyến)|? - 18:00|**Công ty Cổ phần Vận tải ô tô khách Hà Tây**
 |71<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[Công viên Nghĩa Đô](https://maps.app.goo.gl/4U4MfTau4RebQPJY8)|ĐH Quốc gia Hà Nội ([Giảng đường QGHN04A Hòa Lạc](https://maps.app.goo.gl/dJSqVZVdwfFcAq7PA))|15 - 25 - 30 - 45|10.000 ₫ - 20.000 ₫ (chặng)<br>35.000 ₫ (tuyến)|**Công viên Nghĩa Đô**: 5:20 - 18:30<br>**Đại Học Quốc gia Hà Nội**: 6:30 - 18:30|**CTCP Xe khách Hà Nội**
 |78<br>$${\color{black}■ \color{orange}■}$$<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[BX Mỹ Đình](https://maps.app.goo.gl/YXchixi7wKaWwNkS7)|[BX Tế Tiêu](https://maps.app.goo.gl/5UfXWdqdGqCMZSw16)|50 - 60 - 90|10.000 ₫ - 25.000 ₫ - 30.000 ₫ (chặng)<br>35.000 ₫ (tuyến)|**BX Mỹ Đình**: 5:45 - 18:30<br>**BX Tế Tiêu**: 4:30 - 18:00|**CT TNHH Vận tải và Du lịch Bảo Châu**
 ### Tuyến buýt liên tỉnh
