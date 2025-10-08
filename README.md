@@ -1,8 +1,10 @@
 # Xe buýt Hà Nội
 <details>
-<summary>DANH SÁCH CÁC TUYẾN XE BUÝT TẠI HÀ NỘI</summary>
+<summary>DANH SÁCH CÁC TUYẾN XE BUÝT TẠI HÀ NỘI (CHƯA HOÀN THIỆN)</summary>
 
-> Danh sách không bao gồm các tuyến buýt nội khu như SMC, OCT,... hay các tuyến tham quan du lịch như City Tour
+> - Danh sách không bao gồm các tuyến buýt nội khu như SMC, OCT,... hay các tuyến tham quan du lịch như City Tour
+> - Dữ liệu các tuyến thuộc Transerco được lấy từ [timbus.vn](http://timbus.vn/fleets.aspx), các tuyến thuộc Vinbus được lấy từ [Vinbus map](https://maps.vinbus.vn/hn) và các tuyến tư nhân còn lại được lấy từ [Busmap map](https://map.busmap.vn/hn)
+> - Điểm đầu/cuối của một số tuyến được chỉnh sửa lại tên để đảm bảo tính nhất quán, ví dụ (Yên Phụ/Long Biên), sẽ khác một chút so với LED biểu thị trên xe hoặc tại các điểm dừng 
 ## Các tuyến buýt có trợ giá
 |Tuyến|Đầu A|Đầu B|Tần suất (phút)|Giá vé|Thời gian HĐ|TGHĐ (Cuối tuần)|Đơn vị quản lí
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
