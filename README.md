@@ -1,9 +1,21 @@
 # Xe buýt Hà Nội
-
+<details>
+<summary>DANH SÁCH CÁC TUYẾN XE BUÝT TẠI HÀ NỘI</summary>
+  
 ## Các tuyến buýt có trợ giá
 |Tuyến|Đầu A|Đầu B|Tần suất (phút)|Giá vé|Thời gian HĐ|TGHĐ (Cuối tuần)|Đơn vị quản lí
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |BRT 01<br>$${\color{#49af7d}■ \color{#90D5FF}■ \color{#ffffff}■}$$|[BX Yên Nghĩa](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)|[BX Kim Mã](https://maps.app.goo.gl/6xmv3q6foTNgZeBv6)|5 - 10 - 15|8.000 ₫|5:00 - 22:00|**<CHỦ NHẬT>**<br><br>**Kim Mã**: 5:00 - 22:03|XN bus nhanh Hà Nội **(Transerco)**
+|E01<br>$${\color{#89F336}■ \color{black}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**VinBus**
+|E02<br>$${\color{#89F336}■ \color{black}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**VinBus**
+|E03<br>$${\color{#89F336}■ \color{black}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**VinBus**
+|E04<br>$${\color{#89F336}■ \color{black}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**VinBus**
+|E05<br>$${\color{#89F336}■ \color{black}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**VinBus**
+|E06<br>$${\color{#89F336}■ \color{black}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**VinBus**
+|E07<br>$${\color{#89F336}■ \color{black}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**VinBus**
+|E08<br>$${\color{#89F336}■ \color{black}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**VinBus**
+|E09<br>$${\color{#89F336}■ \color{black}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**VinBus**
+|E10<br>$${\color{#89F336}■ \color{black}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**VinBus**
 |E11<br>$${\color{#89F336}■ \color{black}■}$$|Yên Phụ ([ĐTC Long Biên](https://maps.app.goo.gl/rdQtHfaXdEi69SXN9)) ↔ Hồ Tây ↔ Lăng Bác|Cửa Nam ↔ Bờ Hồ ↔ Yên Phụ ([ĐTC Long Biên](https://maps.app.goo.gl/rdQtHfaXdEi69SXN9))|12 - 18|*(Miễn phí đến hết 2025)*|**Yên Phụ ↔ Bờ Hồ**: 7:06 - 18:12<br>**Yên Phụ ↔ Hồ Tây**: 7:00 - 18:06|**〇**|**VinBus**
 |01<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[BX Gia Lâm](https://maps.app.goo.gl/JaXsj5EZGNF1ZJcn7)|[BX Yên Nghĩa](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)|11 - 13 - 15 - 20|10.000 ₫|5:00 - 21:00|**〇**|XN bus Hà Nội **(Transerco)**
 |02<br>$${\color{#111184}■ \color{#90D5FF}■}$$|Bác Cổ ([ĐTC Trần Khánh Dư](https://maps.app.goo.gl/8PAhti9WTfDAX9LQA))|[BX Yên Nghĩa](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)|10 - 15|10.000 ₫|5:00 - 22:30|**〇**|XN bus nhanh Hà Nội **(Transerco)**
@@ -34,7 +46,7 @@
 |21A<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[BX Giáp Bát](https://maps.app.goo.gl/yDVCSeXj2rsr3hGL9)|[BX Yên Nghĩa](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)|10 - 15 - 20|10.000 ₫|**BX Giáp Bát**: 5:00 - 21:00<br>**BX Yên Nghĩa**: 5:05 - 21:05|**〇**|Bus Liên Ninh **(Transerco)**
 |21B<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[Duyên Thái](https://maps.app.goo.gl/6YR3dpDu2wFRUXmM9)|[BX Mỹ Đình](https://maps.app.goo.gl/YXchixi7wKaWwNkS7)|15 - 20|12.000 ₫|**Duyên Thái**: 5:05 - 21:00<br>**BX Mỹ Đình**: 5:05 - 21:00|**〇**|Bus Liên Ninh **(Transerco)**
 |22A<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[BX Gia Lâm](https://maps.app.goo.gl/JaXsj5EZGNF1ZJcn7)|[Khu đô thị Kiến Hưng](https://maps.app.goo.gl/A5UtfdbxpX1hHrqF9)|10 - 11 - 12|10.000 ₫|5:00 - 22:05|**〇**|XN bus Cầu Bươu **(Transerco)**
-|22B<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[BX Giáp Bát](https://maps.app.goo.gl/yDVCSeXj2rsr3hGL9)|[Đô Nghĩa](https://maps.app.goo.gl/KduiYvUBjc2qhTgV9) (Hà Đông)|20 - 23 - 25 - 27 - 30|8.000 ₫|**BX Giáp Bát**: 5:00 - 21:30<br>**Đô Nghĩa**: 5:05 - 21:30|**〇**|XN bus Cầu Bươu **(Transerco)**<br>Samco City BGQ5E4
+|22B<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[BX Giáp Bát](https://maps.app.goo.gl/yDVCSeXj2rsr3hGL9)|[Đô Nghĩa](https://maps.app.goo.gl/KduiYvUBjc2qhTgV9) (Hà Đông)|20 - 23 - 25 - 27 - 30|8.000 ₫|**BX Giáp Bát**: 5:00 - 21:30<br>**Đô Nghĩa**: 5:05 - 21:30|**〇**|XN bus Cầu Bươu **(Transerco)**
 |23<br>$${\color{#90EE90}■ \color{#023020}■}$$|[Nguyễn Công Trứ](https://maps.app.goo.gl/PasHv6BmdPmdP3cCA) ↔ Vân Hồ ↔ Giảng Võ|Hàng Đậu ↔ Lò Đúc ↔ [Nguyễn Công Trứ](https://maps.app.goo.gl/PasHv6BmdPmdP3cCA)|8 - 10 - 12 - 14 - 16 - 18|10.000 ₫|5:00 - 21:15|**〇**|XN bus Hà Nội **(Transerco)**
 |24<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[ĐTC Long Biên](https://maps.app.goo.gl/rdQtHfaXdEi69SXN9)|[ĐTC Cầu Giấy](https://maps.app.goo.gl/sZh4kLjvL4ncU7167)|11 - 12 - 13 - 17 - 20|10.000 ₫|5:00 - 22:00|**<CHỦ NHẬT>**<br><br>**Long Biên**: 5:00 - 21:33|XN xe khách Nam Hà Nội **(Transerco)**
 |25<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[BV Nhiệt đới TW CS2](https://maps.app.goo.gl/ZxbEjQMvGfHu6ujH7)|[BX Giáp Bát](https://maps.app.goo.gl/yDVCSeXj2rsr3hGL9)|12 - 15 - 20|12.000 ₫|**BV Nhiệt đới**: 5:00 - 21:00<br>**BX Giáp Bát**: 5:06 - 21:06|**〇**|CTCP Xe Điện Hà Nội **(Transerco)**
@@ -60,6 +72,86 @@
 |46<br>$${\color{yellow}■ \color{#ff000d}■}$$|[BX Mỹ Đình](https://maps.app.goo.gl/YXchixi7wKaWwNkS7)|[Thị trấn Đông Anh](https://maps.app.goo.gl/NEJ7PnsKFzjedaqV6)|10 - 15|12.000 ₫|**BX Mỹ Đình**: 5:40 - 21:00<br>**Thị trấn Đông Anh**: 5:00 - 19:50|**〇**|**Đông Anh Bus**
 |47A<br>$${\color{green}■ \color{black}■}$$|[ĐTC Long Biên](https://maps.app.goo.gl/rdQtHfaXdEi69SXN9)|[Bát Tràng](https://maps.app.goo.gl/EXU97o2pujpQ6PkN9)|20 - 25|10.000 ₫|5:00 - 21:30|**〇**|CTCP Vận tải Newway **(Transerco)**
 |47B<br>$${\color{green}■ \color{black}■}$$|[Đại học Kinh tế Quốc Dân](https://maps.app.goo.gl/Tyijp88UMPiSK9Fk6) (cổng Trần Đại Nghĩa)|[Kiêu Kỵ](https://maps.app.goo.gl/Z3BUPHyWXQSnj5Zi9) (KĐT Ocean Park)|20 - 25 - 30|12.000 ₫|**ĐH Kinh tế Quốc dân**: 5:00 - 21:10<br>**Kiêu Kỵ**: 5:05 - 21:25|**〇**|CTCP Vận tải Newway **(Transerco)**
+|48<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|CTCP Vận tải Newway **(Transerco)**
+|49<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**CTCP Xe khách Hà Nội**
+|50<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus 10-10 **(Transerco)**
+|51<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**CTCP Xe khách Hà Nội**
+|52<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus Hà Nội **(Transerco)**
+|53A<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus 10-10 **(Transerco)**
+|53B<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus 10-10 **(Transerco)**
+|54<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus Yên Viên **(Transerco)**
+|55<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|CTCP Xe Điện Hà Nội **(Transerco)**
+|56A<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|CTCP Xe Điện Hà Nội **(Transerco)**
+|56B<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|CTCP Xe Điện Hà Nội **(Transerco)**
+|57<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
+|58<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
+|59<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
+|60A<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
+|60B<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
+|61<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
+|62<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|Trung tâm Tân Đạt **(Transerco)**
+|63<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus Yên Viên **(Transerco)**
+|64<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**CT LDVC Quốc tế Hải Vân**
+|65<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
+|66<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus nhanh Hà Nội **(Transerco)**
+|67<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus 10-10 **(Transerco)**
+|69<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|CTCP Vận tải Newway **(Transerco)**
+|72<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Cổ phần Vận tải ô tô khách Hà Tây**
+|74<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**CT LDVC Quốc tế Hải Vân**
+|84<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus Cầu Bươu **(Transerco)**
+|85<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus Cầu Bươu **(Transerco)**
+|87<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN xe khách Nam Hà Nội **(Transerco)**
+|88<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN xe khách Nam Hà Nội **(Transerco)**
+|89<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus nhanh Hà Nội **(Transerco)**
+|90<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus Yên Viên **(Transerco)**
+|91<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus nhanh Hà Nội **(Transerco)**
+|92<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus 10-10 **(Transerco)**
+|93<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus Yên Viên **(Transerco)**
+|94<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|CTCP Vận tải Newway **(Transerco)**
+|95<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus Yên Viên **(Transerco)**
+|96<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus 10-10 **(Transerco)**
+|97<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus 10-10 **(Transerco)**
+|98<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN xe khách Nam Hà Nội **(Transerco)**
+|99<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN xe khách Nam Hà Nội **(Transerco)**
+|100<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus Hà Nội **(Transerco)**
+|101A<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|Trung tâm Tân Đạt **(Transerco)**
+|101B<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|Trung tâm Tân Đạt **(Transerco)**
+|102<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus nhanh Hà Nội **(Transerco)**
+|103A<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus Cầu Bươu **(Transerco)**
+|103B<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus Cầu Bươu **(Transerco)**
+|104<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|Trung tâm Tân Đạt **(Transerco)**
+|105<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus nhanh Hà Nội **(Transerco)**
+|106<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN xe khách Nam Hà Nội **(Transerco)**
+|107<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus nhanh Hà Nội **(Transerco)**
+|108<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus Hà Nội **(Transerco)**
+|109<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|CTCP Xe Điện Hà Nội **(Transerco)**
+|110<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus 10-10 **(Transerco)**
+|111<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus 10-10 **(Transerco)**
+|112<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus Yên Viên **(Transerco)**
+|113<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|Trung tâm Tân Đạt **(Transerco)**
+|114<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus nhanh Hà Nội **(Transerco)**
+|115<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|Trung tâm Tân Đạt **(Transerco)**
+|116<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus nhanh Hà Nội **(Transerco)**
+|117<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus Cầu Bươu **(Transerco)**
+|118<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Cổ phần Vận tải ô tô khách Hà Tây**
+|119<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN bus Cầu Bươu **(Transerco)**
+|122<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**CTCP Xe khách Hà Nội**
+|123<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Đông Anh Bus**
+|124<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**CTCP Xe khách Hà Nội**
+|125<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|Bus Liên Ninh **(Transerco)**
+|126<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Cổ phần Vận tải ô tô khách Hà Tây**
+|142<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
+|143<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
+|144<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
+|146<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**CTCP Xe khách Hà Nội**
+|157<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
+|158<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
+|159<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
+|160<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
+|161<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
+|162<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
+|163<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
+
 
 
 
@@ -94,15 +186,4 @@
 |215/**HB05**<br>$${\color{white}■ \color{black}■}$$|[BX Mỹ Đình](https://maps.app.goo.gl/YXchixi7wKaWwNkS7) ↔ TP Nam Định|Đò Quan ↔ [BX Trực Ninh](https://maps.app.goo.gl/CVE8UZhELiqdqki86)|10 - 20 - 30|35.000 ₫ - 65.000 ₫ - 85.000 ₫ (chặng)<br>100.000 ₫ (tuyến)|**BX Mỹ Đình**: 5:00 - 20:00<br>**BX Trực Ninh**: 4:00 - 19:00|**CTCP Xe khách Hà Nội**
 |215B<br>$${\color{white}■ \color{black}■}$$|[BX Mỹ Đình](https://maps.app.goo.gl/YXchixi7wKaWwNkS7) ↔ Cao Bồ|Hải Hậu ↔ [BX Trực Ninh](https://maps.app.goo.gl/CVE8UZhELiqdqki86)|20 - 30|35.000 ₫ - 65.000 ₫ - 85.000 ₫ (chặng)<br>100.000 ₫ (tuyến)|**BX Mỹ Đình**: 5:00 - 20:00<br>**BX Trực Ninh**: 4:00 - 19:00|**CTCP Xe khách Hà Nội**
 |**HB22**<br>$${\color{#ffffff}■ \color{yellow}■ \color{#90D5FF}■}$$|[Bãi Chạo](https://maps.app.goo.gl/BykYVhsdkv7FT1sm8) ↔ Kim Bôi|Chúc Sơn ↔ [BX Yên Nghĩa](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)|40 - 50 - 60|30.000 ₫ - 35.000 ₫ - 40.000 ₫ (chặng)<br>45.000 ₫ (tuyến)|**Bãi Chạo**: 4:30 - 17:00<br>**BX Yên Nghĩa**: 5:40 - 18:00|**HTX Vận tải Sông Đà**
-
-
-
-|Tuyến<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN  **(Transerco)**
-<details>
-<summary>DANH SÁCH CÁC TUYẾN bus TẠI HÀ NỘI</summary>
-
-### You can add a header
-
-You can add text within a collapsed section.
-
 </details>
