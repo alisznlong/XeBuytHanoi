@@ -1,6 +1,8 @@
 # Xe buýt Hà Nội
-|Tuyến|Đầu A|Đầu B|Tần suất (phút)|Giá vé/lượt|Thời gian HĐ|TGHĐ (Cuối tuần)|Đơn vị quản lí
-|:---:|---|---|---|---|---|:---:|---|
+
+## Các tuyến buýt có trợ giá
+|Tuyến|Đầu A|Đầu B|Tần suất (phút)|Giá vé|Thời gian HĐ|TGHĐ (Cuối tuần)|Đơn vị quản lí
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |BRT 01<br>$${\color{#ffffff}■ \color{ffffff}■ \color{ffffff}■}$$|[BX Yên Nghĩa](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)|Kim Mã ([BX Kim Mã](https://maps.app.goo.gl/6xmv3q6foTNgZeBv6))|5 - 10 - 15|8.000 ₫|5:00 - 22:00|**<CHỦ NHẬT>**<br><br>**Kim Mã**: 5:00 - 22:03|XN bus nhanh Hà Nội **(Transerco)**
 |E11<br>$${\color{#89F336}■ \color{black}■}$$|Yên Phụ ([ĐTC Long Biên](https://maps.app.goo.gl/rdQtHfaXdEi69SXN9)) ↔ Hồ Tây ↔ Lăng Bác|Cửa Nam ↔ Bờ Hồ ↔ Yên Phụ ([ĐTC Long Biên](https://maps.app.goo.gl/rdQtHfaXdEi69SXN9))|12 - 18|0.000 ₫|**Yên Phụ ↔ Bờ Hồ**: 7:06 - 18:12<br>**Yên Phụ ↔ Hồ Tây**: 7:00 - 18:06|**〇**|**VinBus**
 |01<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[BX Gia Lâm](https://maps.app.goo.gl/JaXsj5EZGNF1ZJcn7)|[BX Yên Nghĩa](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)|11 - 13 - 15 - 20|10.000 ₫|5:00 - 21:00|**〇**|XN bus Hà Nội **(Transerco)**
@@ -52,11 +54,25 @@
 
 |39<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[Công viên Nghĩa Đô](https://maps.app.goo.gl/4U4MfTau4RebQPJY8)|[Mai Động](https://maps.app.goo.gl/pMmm4kNFkMzsgAXJ8)|15 - 20|12.000 ₫|5:00 - 21:20|**〇**|XN xe khách Nam Hà Nội **(Transerco)**
 |43<br>$${\color{#89F336}■ \color{black}■}$$|Kim Mã ([BX Kim Mã](https://maps.app.goo.gl/6xmv3q6foTNgZeBv6))|[Thị trấn Đông Anh](https://maps.app.goo.gl/NEJ7PnsKFzjedaqV6)|15 - 20|12.000 ₫|5:00 - 21:00|**〇**|**VinBus**
-|47A<br>$${\color{#111184}■ \color{#90D5FF}■}$$|Long Biên ([ĐTC Long Biên](https://maps.app.goo.gl/rdQtHfaXdEi69SXN9))|[Bát Tràng](https://maps.app.goo.gl/EXU97o2pujpQ6PkN9)|20 - 25|10.000 ₫|5:00 - 21:30|**〇**|Công ty Cổ phần Vận tải Newway **(Transerco)**
-|47B<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[Đại học Kinh tế Quốc Dân](https://maps.app.goo.gl/Tyijp88UMPiSK9Fk6) (cổng Trần Đại Nghĩa)|[Kiêu Kỵ](https://maps.app.goo.gl/Z3BUPHyWXQSnj5Zi9) (KĐT Ocean Park)|20 - 25 - 30|12.000 ₫|**ĐH Kinh tế Quốc dân**: 5:00 - 21:10<br>**Kiêu Kỵ**: 5:05 - 21:25|**〇**|Công ty Cổ phần Vận tải Newway **(Transerco)**
+|47A<br>$${\color{#111184}■ \color{#90D5FF}■}$$|Long Biên ([ĐTC Long Biên](https://maps.app.goo.gl/rdQtHfaXdEi69SXN9))|[Bát Tràng](https://maps.app.goo.gl/EXU97o2pujpQ6PkN9)|20 - 25|10.000 ₫|5:00 - 21:30|**〇**|CTCP Vận tải Newway **(Transerco)**
+|47B<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[Đại học Kinh tế Quốc Dân](https://maps.app.goo.gl/Tyijp88UMPiSK9Fk6) (cổng Trần Đại Nghĩa)|[Kiêu Kỵ](https://maps.app.goo.gl/Z3BUPHyWXQSnj5Zi9) (KĐT Ocean Park)|20 - 25 - 30|12.000 ₫|**ĐH Kinh tế Quốc dân**: 5:00 - 21:10<br>**Kiêu Kỵ**: 5:05 - 21:25|**〇**|CTCP Vận tải Newway **(Transerco)**
 
 
 |Tuyến<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN  **(Transerco)**
+
+## Các tuyến buýt không trợ giá
+### Tuyến buýt nhanh đi sân bay Nội Bài
+|Tuyến|Đầu A|Đầu B|Tần suất (phút)|Giá vé|Thời gian HĐ|TGHĐ (Cuối tuần)|Đơn vị quản lí
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|68<br>$${\color{orange}■ }$$|Hà Đông ([TTTM Mê Linh Plaza Hà Đông](https://maps.app.goo.gl/XsvG3r63tVS4zUpY9))|Sân bay Nội Bài ([Sảnh nhà ga T1](https://maps.app.goo.gl/EsJ4R6pEomQzpWYR9))|40 - 45 -50 - 55|50.000 ₫|**Hà Đông**: 5:45 - 20:05<br>**Sân bay Nội Bài**: 7:35 - 22:15|**〇**|XN bus nhanh Hà Nội **(Transerco)**
+|86<br>86<sup>CT</sup><br>$${\color{orange}■ }$$|[Ga Hà Nội](https://maps.app.goo.gl/rg4tp3s9wzkBPvnL7)|Sân bay Nội Bài ([Nhà ga T2](https://maps.app.goo.gl/4ttHqL6YHYTwuiwi6))|30 - 40 - 45|45.000 ₫|**Ga Hà Nội**: 5:15 - 20:25<br>**Sân bay Nội Bài**: 6:45 - 22:10|**<86<sup>CT</sup>: T7 - CN>**<br><br>**Ga Hà Nội**: 5:30 - 20:30<br>**Sân bay Nội Bài**: 7:00 - 22:00|XN bus nhanh Hà Nội **(Transerco)**
+### Tuyến buýt không trợ giá trong địa phận thành phố
+|Tuyến|Đầu A|Đầu B|Tần suất (phút)|Giá vé|Thời gian HĐ|TGHĐ (Cuối tuần)|Đơn vị quản lí
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+### Tuyến buýt liên tỉnh
+|Tuyến|Đầu A|Đầu B|Tần suất (phút)|Giá vé|Thời gian HĐ|TGHĐ (Cuối tuần)|Đơn vị quản lí
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|204<br>$${\color{white}■ \color{blue}■}$$|Long Biên ([ĐTC Long Biên](https://maps.app.goo.gl/rdQtHfaXdEi69SXN9))|[Thuận Thành](https://maps.app.goo.gl/XdLCKQL3bfb1UFwW8)|40 - 50|15.000 ₫ (chặng)<br>30.000 ₫ (tuyến)|**Long Biên**: 6:00 - 18:00<br>**Thuận Thành**: 5:20 - 17:10|**〇**|**CTCP Xe khách Hà Nội**
 
 <details>
 <summary>DANH SÁCH CÁC TUYẾN bus TẠI HÀ NỘI</summary>
