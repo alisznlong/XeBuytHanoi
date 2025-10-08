@@ -1,7 +1,8 @@
 # Xe buýt Hà Nội
 <details>
 <summary>DANH SÁCH CÁC TUYẾN XE BUÝT TẠI HÀ NỘI</summary>
-  
+
+> Danh sách không bao gồm các tuyến buýt nội khu như SMC, OCT,... hay các tuyến tham quan du lịch như City Tour
 ## Các tuyến buýt có trợ giá
 |Tuyến|Đầu A|Đầu B|Tần suất (phút)|Giá vé|Thời gian HĐ|TGHĐ (Cuối tuần)|Đơn vị quản lí
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
