@@ -58,7 +58,6 @@
 |47B<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[Đại học Kinh tế Quốc Dân](https://maps.app.goo.gl/Tyijp88UMPiSK9Fk6) (cổng Trần Đại Nghĩa)|[Kiêu Kỵ](https://maps.app.goo.gl/Z3BUPHyWXQSnj5Zi9) (KĐT Ocean Park)|20 - 25 - 30|12.000 ₫|**ĐH Kinh tế Quốc dân**: 5:00 - 21:10<br>**Kiêu Kỵ**: 5:05 - 21:25|**〇**|CTCP Vận tải Newway **(Transerco)**
 
 
-|Tuyến<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN  **(Transerco)**
 
 ## Các tuyến buýt không trợ giá
 ### Tuyến buýt nhanh đi sân bay Nội Bài
@@ -69,11 +68,31 @@
 ### Tuyến buýt không trợ giá trong địa phận thành phố
 |Tuyến|Đầu A|Đầu B|Tần suất (phút)|Giá vé|Thời gian HĐ|TGHĐ (Cuối tuần)|Đơn vị quản lí
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|70A<br>$${\color{yellow}■ \color{#ff000d}■}$$|[BX Mỹ Đình](https://maps.app.goo.gl/YXchixi7wKaWwNkS7)|[Trung Hà](link) (Ba Vì)|GIÃN|15.000 ₫ - 20.000 ₫ (chặng)<br>35.000 ₫ (tuyến)|THỜIGIAN|**〇**|XN  **(Transerco)**
+|70B<br>$${\color{yellow}■ \color{#ff000d}■}$$|[BX Mỹ Đình](https://maps.app.goo.gl/YXchixi7wKaWwNkS7)|[Phú Cường](link) (Ba Vì)|GIÃN|15.000 ₫ - 20.000 ₫ (chặng)<br>35.000 ₫ (tuyến)|THỜIGIAN|**〇**|XN  **(Transerco)**
+|71<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[Công viên Nghĩa Đô](https://maps.app.goo.gl/4U4MfTau4RebQPJY8)|ĐH Quốc gia Hà Nội ([Giảng đường QGHN04A Hòa Lạc](https://maps.app.goo.gl/dJSqVZVdwfFcAq7PA))|15 - 25 - 30 - 45|10.000 ₫ - 20.000 ₫ (chặng)<br>35.000 ₫ (tuyến)|**Công viên Nghĩa Đô**: 5:20 - 18:30<br>**Đại Học Quốc gia Hà Nội**: 6:30 - 18:30|**〇**|**CTCP Xe khách Hà Nội**
+|78<br>$${\color{black}■ \color{orange}■}$$<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[BX Mỹ Đình](https://maps.app.goo.gl/YXchixi7wKaWwNkS7)|[BX Tế Tiêu](https://maps.app.goo.gl/5UfXWdqdGqCMZSw16)|50 - 60 - 90|10.000 ₫ - 25.000 ₫ - 30.000 ₫ (chặng)<br>35.000 ₫ (tuyến)|**BX Mỹ Đình**: 5:45 - 18:30<br>**BX Tế Tiêu**: 4:30 - 18:00|**〇**|**CT TNHH Vận tải và Du lịch Bảo Châu**
 ### Tuyến buýt liên tỉnh
 |Tuyến|Đầu A|Đầu B|Tần suất (phút)|Giá vé|Thời gian HĐ|TGHĐ (Cuối tuần)|Đơn vị quản lí
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|204<br>$${\color{white}■ \color{blue}■}$$|Long Biên ([ĐTC Long Biên](https://maps.app.goo.gl/rdQtHfaXdEi69SXN9))|[Thuận Thành](https://maps.app.goo.gl/XdLCKQL3bfb1UFwW8)|40 - 50|15.000 ₫ (chặng)<br>30.000 ₫ (tuyến)|**Long Biên**: 6:00 - 18:00<br>**Thuận Thành**: 5:20 - 17:10|**〇**|**CTCP Xe khách Hà Nội**
+|202<br>$${\color{#89F336}■}$$<br>$${\color{#89F336}■ \color{blue}■}$$|Hà Nội ([BX Gia Lâm](https://maps.app.goo.gl/JaXsj5EZGNF1ZJcn7)) ↔ Phố Nối|Quán Gỏi ↔ [BX khách Hải Dương](https://maps.app.goo.gl/98UWNJhta94TxXSp8)|15 - 20|10.000 ₫ (nội đô Hải Dương)<br>20.000 đ - 25.000 ₫ (chặng)<br>45.000 ₫ (tuyến)|**Hà Nội**: 5:14 - 19:30<br>**Hải Dương**: 5:02 - 18:17|**〇**|**CTCP Xe khách Hà Nội**<br>**CTCP Vận tải hành khách Hải Hưng**
+|203<br>$${\color{yellow}■ \color{#ff000d}■}$$|[BX Giáp Bát](https://maps.app.goo.gl/yDVCSeXj2rsr3hGL9)|[BX Bắc Giang](https://maps.app.goo.gl/5HrkWqPA7bctAXqH7)|30 - 60|10.000 ₫ - 15.000 ₫ - 20.000 ₫ - 35.000 ₫ - 40.000 ₫ (chặng)<br>55.000 ₫ (tuyến)|**BX Giáp Bát**: 6:00 - 17:40<br>**BX Bắc Giang**: 5:30 - 16:30|**〇**|**Công ty VTHK Bắc Hà**
+|204<br>$${\color{white}■ \color{blue}■}$$|Long Biên ([ĐTC Long Biên](https://maps.app.goo.gl/rdQtHfaXdEi69SXN9))|[Thuận Thành](https://maps.app.goo.gl/XdLCKQL3bfb1UFwW8)|40 - 50|15.000 ₫ (chặng)<br>30.000 ₫ (tuyến)|**Long Biên**: 6:00 - 18:00<br>**Thuận Thành**: 5:20 - 17:10|**〇**|**Công ty VTHK Bắc Hà**
+|205<br>$${\color{yellow}■ \color{#ff000d}■}$$|[BX Gia Lâm](https://maps.app.goo.gl/JaXsj5EZGNF1ZJcn7) ↔ Phố Nối|[BX Hưng Yên](https://maps.app.goo.gl/5BSKHBcdhePHd6JY7)|20 - 25 - 30|5.000 ₫ (nội đô Hưng Yên)<br>20.000 ₫ - 30.000 ₫ (chặng)<br>50.000 ₫ (tuyến)|**BX Gia Lâm**: 5:00 - 19:05<br>**BX Hưng Yên**: 5:00 - 17:40|**〇**|**CTCP Xe khách Hà Nội**
+|206<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[BX Phủ Lý](https://maps.app.goo.gl/ahx1iTj52U2j8HfT9) ↔ Đồng Văn|[BX Giáp Bát](https://maps.app.goo.gl/yDVCSeXj2rsr3hGL9)|20 - 25 - 30 - 40 - 50|10.000 ₫ - 30.000 ₫ - 37.000 ₫ (chặng)<br>45.000 ₫ (tuyến)|**Phủ Lý**: 4:30 - 18:30<br>**BX Giáp Bát**: 6:00 - 20:30|**〇**|**CTCP Xe Bus Hà Nam**
+|207<br>$${\color{#89F336}■ \color{red}■}$$|[BX Triều Dương](https://maps.app.goo.gl/w24RqvwWF6ZoBaZW9) ↔ TP Hưng Yên|[BX Gia Lâm](https://maps.app.goo.gl/JaXsj5EZGNF1ZJcn7)|30|20.000 ₫ - 30.000 ₫ - 40.000 ₫ - 45.000 ₫ - 50.000 ₫ (chặng)<br>60.000 ₫ (tuyến)|**BX Triều Dương**: ? - 17:00<br>**BX Gia Lâm**: ? - 18:25|**〇**|**CT TNHH VTHK Phù Cừ**
+|208<br>$${\color{yellow}■ \color{#ff000d}■}$$|[BX Giáp Bát](https://maps.app.goo.gl/yDVCSeXj2rsr3hGL9)|[BX Hưng Yên](https://maps.app.goo.gl/5BSKHBcdhePHd6JY7)|?|30.000 ₫ - 40.000 ₫ (chặng)<br>55.000 ₫ (tuyến)|?|**〇**|?
+|209<br>$${\color{yellow}■ \color{#ff000d}■}$$|[BX Giáp Bát](https://maps.app.goo.gl/yDVCSeXj2rsr3hGL9)|[BX Triều Dương](https://maps.app.goo.gl/w24RqvwWF6ZoBaZW9)|60|15.000 ₫ - 20.000 ₫ - 35.000 ₫ - 50.000 ₫ (chặng)<br>55.000 ₫ (tuyến)|?|**〇**|**CTCP Xe khách Hà Nội**<br>**CT TNHH Xuân Minh**
+|210<br>$${\color{yellow}■ \color{#ff000d}■}$$|[BX Gia Lâm](https://maps.app.goo.gl/JaXsj5EZGNF1ZJcn7)|[BX Hiệp Hòa](https://maps.app.goo.gl/N12UK196u7bcTwgC9)|20 -25|15.000 ₫ - 20.000 ₫ - 25.000 ₫ - 30.000 ₫ - 45.000 ₫ (chặng)<br>55.000 ₫ (tuyến)|**BX Gia Lâm**: 5:30 - 19:30<br>**BX Hiệp Hòa**: 4:20 - 18:00|**〇**|**CT TNHH Vận tải Mến Hiếu**
+|212<br>$${\color{#89F336}■ \color{black}■}$$|[BX Mỹ Đình](https://maps.app.goo.gl/YXchixi7wKaWwNkS7)|[BX Quế Võ](https://maps.app.goo.gl/cHSiJ9BeXzoLN2J3A) ↔ [Phù Lăng](link)|15 - 30 - 35 - 40 - 45 - 60|15.000 ₫ - 45.000 ₫ - 60.000 ₫ (chặng)<br>80.000 ₫ (tuyến)|**BX Mỹ Đình**: 5:15 - 16:40<br>**Phù Lăng**: 5:45 - 17:00<br>*(lượt 16:40 từ BX Mỹ Đình đi chiều Phù Lăng về BX Quế Võ)*<sup>[[link](https://www.facebook.com/photo/?fbid=819599963504261)]</sup>|**〇**|**CTCP Xe khách Hà Nội**
+|213<br>$${\color{yellow}■ \color{#ff000d}■}$$|[BX Yên Nghĩa](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)|[BX Bình An](https://maps.app.goo.gl/F8kZV9QQKHhmgL1T9) (Hòa Bình)|?|15.000 ₫ - 25.000 ₫ - 30.000 ₫ - 35.000 ₫ - 40.000 ₫ (chặng)<br>60.000 ₫ (lượt)|**BX Yên Nghĩa**: 5:00 - 19:30<br>**BX Bình An**: 4:50 - ?|**〇**|**CTCP Ô tô khách Hà Tây**<br>**HTX Vận tải Sông Đà**
+|214<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[BX Phủ Lý](https://maps.app.goo.gl/ahx1iTj52U2j8HfT9)|[BX Yên Nghĩa](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)|45 - 50 - 60 - 90|10.000 ₫ - 35.000 ₫ (chặng)<br>45.000 ₫ (tuyến)|**BX Phủ Lý**: 5:20 - 8:00; 13:00 - 15:00<br>**BX Yên Nghĩa**: 8:00 - 10:30; 15:00 - 17:30|**〇**|**CTCP Xe Bus Hà Nam**
+|215<br>$${\color{white}■ \color{black}■}$$|[BX Mỹ Đình](https://maps.app.goo.gl/YXchixi7wKaWwNkS7) ↔ TP Nam Định|Đò Quan ↔ [BX Trực Ninh](https://maps.app.goo.gl/CVE8UZhELiqdqki86)|10 - 20 - 30|35.000 ₫ - 65.000 ₫ - 85.000 ₫ (chặng)<br>100.000 ₫ (tuyến)|**BX Mỹ Đình**: 5:00 - 20:00<br>**BX Trực Ninh**: 4:00 - 19:00|**〇**|**CTCP Xe khách Hà Nội**
+|215B<br>$${\color{white}■ \color{black}■}$$|[BX Mỹ Đình](https://maps.app.goo.gl/YXchixi7wKaWwNkS7) ↔ Cao Bồ|Hải Hậu ↔ [BX Trực Ninh](https://maps.app.goo.gl/CVE8UZhELiqdqki86)|20 - 30|35.000 ₫ - 65.000 ₫ - 85.000 ₫ (chặng)<br>100.000 ₫ (tuyến)|**BX Mỹ Đình**: 5:00 - 20:00<br>**BX Trực Ninh**: 4:00 - 19:00|**〇**|**CTCP Xe khách Hà Nội**
 
+
+
+|Tuyến<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|XN  **(Transerco)**
 <details>
 <summary>DANH SÁCH CÁC TUYẾN bus TẠI HÀ NỘI</summary>
 
