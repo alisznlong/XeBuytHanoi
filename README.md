@@ -29,7 +29,7 @@
 |[**E05**](https://maps.vinbus.vn/hn/route/101102)<br>$${\color{#89F336}■ \color{black}■}$$|[ĐTC Long Biên](https://maps.app.goo.gl/rdQtHfaXdEi69SXN9) ↔ ĐTC Cầu Giấy ↔ Phạm Hùng|[KĐT Smart City](https://maps.app.goo.gl/kQTVBuXGtfXuZ1Ph7)|15 - 20|10.000 ₫|**ĐTC Long Biên**: 5:00 - 21:30<br>**KĐT Smart City**: 5:00 - 21:00|**〇**|**VinBus**
 |[**E06**](https://maps.vinbus.vn/hn/route/101105)<br>$${\color{#89F336}■ \color{black}■}$$|[BX Giáp Bát](https://maps.app.goo.gl/yDVCSeXj2rsr3hGL9)|[KĐT Smart City](https://maps.app.goo.gl/kQTVBuXGtfXuZ1Ph7)|15 - 20|10.000 ₫|**BX Giáp Bát**: 5:00 - 21:30<br>**KĐT Smart City**: 5:00 - 21:00|**〇**|**VinBus**
 |[**E07**](https://maps.vinbus.vn/hn/route/101106)<br>$${\color{#89F336}■ \color{black}■}$$|[ĐTC Long Biên](https://maps.app.goo.gl/rdQtHfaXdEi69SXN9) ↔ Cửa Nam ↔ Trần Duy Hưng|[KĐT Smart City](https://maps.app.goo.gl/kQTVBuXGtfXuZ1Ph7)|15 - 20|10.000 ₫|**ĐTC Long Biên**: 5:00 - 21:30<br>**KĐT Smart City**: 5:00 - 21:00|**〇**|**VinBus**
-|[**E08**](https://maps.vinbus.vn/hn/route/101107)<br>$${\color{#89F336}■ \color{black}■}$$|[Khu liên cơ quan Sở ngành Hà Nội](https://maps.app.goo.gl/i2gJudWUKsRWd28s5)|[KĐT Times City](https://maps.app.goo.gl/6ZCiZsvEqJimZ6Rv6)<br>*(điểm cuối tuyến E08)*|15 - 20|10.000 ₫|5:00 - 21:10|**〇**|**VinBus**
+|[**E08**](https://maps.vinbus.vn/hn/route/101107)<br>$${\color{#89F336}■ \color{black}■}$$|[Khu liên cơ quan Sở ngành Hà Nội](https://maps.app.goo.gl/i2gJudWUKsRWd28s5)|KĐT Times City ([*điểm cuối tuyến E08*](https://maps.app.goo.gl/6ZCiZsvEqJimZ6Rv6))<br>|15 - 20|10.000 ₫|5:00 - 21:10|**〇**|**VinBus**
 |[**E09**](https://maps.vinbus.vn/hn/route/101108)<br>$${\color{#89F336}■ \color{black}■}$$|[Khu liên cơ quan Sở ngành Hà Nội](https://maps.app.goo.gl/i2gJudWUKsRWd28s5)|[KĐT Smart City](https://maps.app.goo.gl/kQTVBuXGtfXuZ1Ph7)|15 - 20|10.000 ₫|**Khu liên cơ**: 5:00 - 21:00<br>**KĐT Smart City**: 5:00 - 21:30|**〇**|**VinBus**
 |[**E10**](https://maps.vinbus.vn/hn/route/101111)<br>$${\color{#89F336}■ \color{black}■}$$|[KĐT Ocean Park](https://maps.app.goo.gl/tiH2yA2ZSmZK56g1A)|Sân bay Nội Bài ([Nhà ga T2](https://maps.app.goo.gl/4ttHqL6YHYTwuiwi6))|20|20.000 ₫|**KĐT Ocean Park**: 5:00 - 20:40<br>**Sân bay Nội Bài**: 6:20 -22:00|**〇**|**VinBus**
 |[**E11**](https://maps.vinbus.vn/hn/route/101120)<br>$${\color{#89F336}■ \color{black}■}$$|Yên Phụ ([ĐTC Long Biên](https://maps.app.goo.gl/rdQtHfaXdEi69SXN9)) ↔ Bờ Hồ ↔ Cửa Nam|Lăng Bác ↔ Hồ Tây ↔ Yên Phụ ([ĐTC Long Biên](https://maps.app.goo.gl/rdQtHfaXdEi69SXN9))|12 - 18|*(Miễn phí đến hết 2025)*|**Yên Phụ ↔ Bờ Hồ**: 7:06 - 18:12<br>**Yên Phụ ↔ Hồ Tây**: 7:00 - 18:06|**〇**|**VinBus**
@@ -37,7 +37,7 @@
 |[**02**](https://map.busmap.vn/hn/route/2)<br>$${\color{#111184}■ \color{#90D5FF}■}$$|Bác Cổ ([ĐTC Trần Khánh Dư](https://maps.app.goo.gl/8PAhti9WTfDAX9LQA))|[BX Yên Nghĩa](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)|10 - 15|10.000 ₫|5:00 - 22:30|**〇**|XN bus nhanh Hà Nội **(Transerco)**
 |[**03A**](https://map.busmap.vn/hn/route/3)<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[BX Giáp Bát](https://maps.app.goo.gl/yDVCSeXj2rsr3hGL9)|[BX Gia Lâm](https://maps.app.goo.gl/JaXsj5EZGNF1ZJcn7)|11 - 13 - 16 - 20|10.000 ₫|5:03 - 21:03|**〇**|XN bus Hà Nội **(Transerco)**
 |[**03B**](https://map.busmap.vn/hn/route/803)<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[BX Nước Ngầm](https://maps.app.goo.gl/Jgg2UwuK68AxRtoL6)|[Giang Biên](https://maps.app.goo.gl/Y8KqUDtWXSKjuhvq6)|20|10.000 ₫|**BX Nước Ngầm**: 5:00 - 21:00<br>**Giang Biên**: 5:10 - 21:10|**〇**|XN bus Hà Nội **(Transerco)**
-|04<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[ĐTC Long Biên](https://maps.app.goo.gl/rdQtHfaXdEi69SXN9)|[Bệnh viện Nội tiết Trung ương Cơ sở II](https://maps.app.goo.gl/6kmm8tKFovzguuEb8)|14 - 15 - 22|10.000 ₫|5:00 - 21:00|**〇**|XN xe khách Nam Hà Nội **(Transerco)**
+|04<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[ĐTC Long Biên](https://maps.app.goo.gl/rdQtHfaXdEi69SXN9)|[BV Nội tiết Trung ương Cơ sở II](https://maps.app.goo.gl/6kmm8tKFovzguuEb8)|14 - 15 - 22|10.000 ₫|5:00 - 21:00|**〇**|XN xe khách Nam Hà Nội **(Transerco)**
 |05<br>$${\color{#49af7d}■ \color{black}■}$$|[Mai Động](https://maps.app.goo.gl/pMmm4kNFkMzsgAXJ8)|[Đại học Tài nguyên và Môi trường Hà Nội](https://maps.app.goo.gl/tX1ZBgv2VPRzetQTA)|20 - 25 - 30|10.000 ₫|**Mai Động**: 5:00 - 21:25<br>**ĐH Tài Nguyên**: 5:00 - 21:20|**〇**|XN xe khách Nam Hà Nội **(Transerco)**
 |06A<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[BX Giáp Bát](https://maps.app.goo.gl/yDVCSeXj2rsr3hGL9)|[Cầu Giẽ](https://maps.app.goo.gl/BWXURMXn56rcb9nT6)|10 - 15 - 20|15.000 ₫|**BX Giáp Bát**: 5:00 - 21:05<br>**Cầu Giẽ**: 5:00 - 21:05|**〇**|Trung tâm Tân Đạt  **(Transerco)**
 |06B<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[BX Giáp Bát](https://maps.app.goo.gl/yDVCSeXj2rsr3hGL9)|[Hồng Vân](https://maps.app.goo.gl/YhSAb8eUFZGrh9Gz9)|24|10.000 ₫|**BX Giáp Bát**: 5:10 - 20:00<br>**Hồng Vân**: 5:00 - 20:40|**〇**|Trung tâm Tân Đạt  **(Transerco)**
@@ -156,17 +156,17 @@
 |124<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[BX Yên Nghĩa](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**CTCP Xe khách Hà Nội**
 |125<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|Bus Liên Ninh **(Transerco)**
 |126<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Cổ phần Vận tải ô tô khách Hà Tây**
-|142<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[BX Nam Thăng Long](https://maps.app.goo.gl/xitdKkkYfKCp3ZHc7)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
-|143<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[Thị trấn Đông Anh](https://maps.app.goo.gl/NEJ7PnsKFzjedaqV6)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
-|144<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[Đại học Mỏ](https://maps.app.goo.gl/BPSizaj46wXQj7ts7)|[ĐTC Trần Khánh Dư](https://maps.app.goo.gl/8PAhti9WTfDAX9LQA)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
+|142<br>$${\color{#90EE90}■ \color{#023020}■}$$|[BX Nam Thăng Long](https://maps.app.goo.gl/xitdKkkYfKCp3ZHc7)|KĐT Vinhomes Long Biên ([điểm cuối tuyến 142](https://maps.app.goo.gl/qY1CF3xQYtr1fw5r5))|15 - 20|10.000 ₫|5:00 - 21:00|**〇**|**Công ty Bảo Yến**
+|143<br>$${\color{#90EE90}■ \color{#023020}■}$$|[A](link)|[Thị trấn Đông Anh](https://maps.app.goo.gl/NEJ7PnsKFzjedaqV6)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
+|144<br>$${\color{#90EE90}■ \color{#023020}■}$$|[Đại học Mỏ](https://maps.app.goo.gl/BPSizaj46wXQj7ts7)|[ĐTC Trần Khánh Dư](https://maps.app.goo.gl/8PAhti9WTfDAX9LQA)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
 |146<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**CTCP Xe khách Hà Nội**
-|157<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[BX Mỹ Đình](https://maps.app.goo.gl/YXchixi7wKaWwNkS7)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
-|158<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[BX Yên Nghĩa](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
-|159<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[BV Nhiệt đới TW CS2](https://maps.app.goo.gl/ZxbEjQMvGfHu6ujH7)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
-|160<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[BX Nam Thăng Long](https://maps.app.goo.gl/xitdKkkYfKCp3ZHc7)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
-|161<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[ĐTC Cầu Giấy](https://maps.app.goo.gl/sZh4kLjvL4ncU7167)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
-|162<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[ĐTC Nhổn](https://maps.app.goo.gl/oxWsWLMGvtd2QCYR7)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
-|163<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[BX Yên Nghĩa](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)|[ĐTC Nhổn](https://maps.app.goo.gl/oxWsWLMGvtd2QCYR7)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
+|157<br>$${\color{#90EE90}■ \color{#023020}■}$$|[BX Mỹ Đình](https://maps.app.goo.gl/YXchixi7wKaWwNkS7)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
+|158<br>$${\color{#90EE90}■ \color{#023020}■}$$|[BX Yên Nghĩa](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
+|159<br>$${\color{#90EE90}■ \color{#023020}■}$$|[BV Nhiệt đới TW CS2](https://maps.app.goo.gl/ZxbEjQMvGfHu6ujH7)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
+|160<br>$${\color{#90EE90}■ \color{#023020}■}$$|[A](link)|[BX Nam Thăng Long](https://maps.app.goo.gl/xitdKkkYfKCp3ZHc7)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
+|161<br>$${\color{#90EE90}■ \color{#023020}■}$$|[ĐTC Cầu Giấy](https://maps.app.goo.gl/sZh4kLjvL4ncU7167)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
+|162<br>$${\color{#90EE90}■ \color{#023020}■}$$|[ĐTC Nhổn](https://maps.app.goo.gl/oxWsWLMGvtd2QCYR7)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
+|163<br>$${\color{#90EE90}■ \color{#023020}■}$$|[BX Yên Nghĩa](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)|[ĐTC Nhổn](https://maps.app.goo.gl/oxWsWLMGvtd2QCYR7)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
 
 
 
