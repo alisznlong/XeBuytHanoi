@@ -206,6 +206,9 @@
 |215B<br>$${\color{white}■ \color{black}■}$$|[BX Mỹ Đình](https://maps.app.goo.gl/YXchixi7wKaWwNkS7) ↔ Cao Bồ|Hải Hậu ↔ [BX Trực Ninh](https://maps.app.goo.gl/CVE8UZhELiqdqki86)|20 - 30|35.000 ₫ - 65.000 ₫ - 85.000 ₫ (chặng)<br>100.000 ₫ (tuyến)|**BX Mỹ Đình**: 5:00 - 20:00<br>**BX Trực Ninh**: 4:00 - 19:00|**CTCP Xe khách Hà Nội**
 </details>
 <details>
+<summary>DỊCH VỤ VÉ THÁNG (<b>CÁC TUYẾN BUÝT TRỢ GIÁ</b>)</summary>
+</details>
+<details>
 <summary>DANH SÁCH CÁC TUYẾN BUÝT NỘI KHU & THƯƠNG MẠI</summary>
   
 ## Tuyến buýt nội khu
