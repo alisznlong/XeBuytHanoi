@@ -1,4 +1,8 @@
-## Các tuyến buýt có trợ giá
+<details>
+<summary><b>CÁC TUYẾN BUÝT CÓ TRỢ GIÁ</b></summary>
+  
+## DANH SÁCH
+  
 |Tuyến|Đầu A|Đầu B|Tần suất (phút)|Giá vé|Thời gian HĐ|TGHĐ (Cuối tuần)|Đơn vị quản lí
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |BRT 01<br>$${\color{#49af7d}■ \color{#90D5FF}■ \color{#ffffff}■}$$|[BX Yên Nghĩa](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)|[BX Kim Mã](https://maps.app.goo.gl/6xmv3q6foTNgZeBv6)|5 - 10 - 15|8.000 ₫|5:00 - 22:00|**<CHỦ NHẬT>**<br><br>**BX Kim Mã**: 5:00 - 22:03|XN bus nhanh Hà Nội **(Transerco)**
@@ -147,24 +151,23 @@
 |161<br>$${\color{#90EE90}■ \color{#023020}■}$$|[ĐTC Cầu Giấy](https://maps.app.goo.gl/sZh4kLjvL4ncU7167)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
 |162<br>$${\color{#90EE90}■ \color{#023020}■}$$|[ĐTC Nhổn](https://maps.app.goo.gl/oxWsWLMGvtd2QCYR7)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
 |163<br>$${\color{#90EE90}■ \color{#023020}■}$$|[BX Yên Nghĩa](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)|[ĐTC Nhổn](https://maps.app.goo.gl/oxWsWLMGvtd2QCYR7)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
-
-
-
-
-## Các tuyến buýt không trợ giá
-### Tuyến buýt nhanh đi sân bay Nội Bài
+</details>
+<details>
+<summary><b>CÁC TUYẾN BUÝT KHÔNG TRỢ GIÁ</b></summary>
+  
+## Tuyến buýt nhanh đi sân bay Nội Bài
 |Tuyến|Đầu A|Đầu B|Tần suất (phút)|Giá vé|Thời gian HĐ|TGHĐ (Cuối tuần)|Đơn vị quản lí
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |68<br>$${\color{orange}■ }$$|Hà Đông ([TTTM Mê Linh Plaza Hà Đông](https://maps.app.goo.gl/XsvG3r63tVS4zUpY9))|Sân bay Nội Bài ([Sảnh Nhà ga T1](https://maps.app.goo.gl/EsJ4R6pEomQzpWYR9))|40 - 45 -50 - 55|50.000 ₫|**Hà Đông**: 5:45 - 20:05<br>**Sân bay Nội Bài**: 7:35 - 22:15|**〇**|XN bus nhanh Hà Nội **(Transerco)**
 |86<br>86<sup>CT</sup><br>$${\color{orange}■ }$$|[Ga Hà Nội](https://maps.app.goo.gl/rg4tp3s9wzkBPvnL7)|Sân bay Nội Bài ([Nhà ga T2](https://maps.app.goo.gl/JmF4qo2HASpqbnf59))|30 - 40 - 45|45.000 ₫|**Ga Hà Nội**: 5:15 - 20:25<br>**Sân bay Nội Bài**: 6:45 - 22:10|**<86<sup>CT</sup>: T7 - CN>**<br><br>**Ga Hà Nội**: 5:30 - 20:30<br>**Sân bay Nội Bài**: 7:00 - 22:00|XN bus nhanh Hà Nội **(Transerco)**
-### Tuyến buýt không trợ giá khác trong địa phận thành phố
+## Tuyến buýt không trợ giá khác trong địa phận thành phố
 |Tuyến|Đầu A|Đầu B|Tần suất (phút)|Giá vé|Thời gian HĐ|Đơn vị quản lí
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[**70A**](https://wikiroutes.info/en/hanoi?routes=79467)<br>$${\color{yellow}■ \color{#ff000d}■}$$|[BX Mỹ Đình](https://maps.app.goo.gl/YXchixi7wKaWwNkS7)|[Trung Hà](https://maps.app.goo.gl/tHx42JSyBxSo8XqA8) (Ba Vì)|20 - 30|15.000 ₫ - 20.000 ₫ (chặng)<br>35.000 ₫ (tuyến)|5:00 -  17:00|**Công ty Cổ phần Vận tải ô tô khách Hà Tây**
 |[**70B**](https://wikiroutes.info/en/hanoi?routes=79466)<br>$${\color{yellow}■ \color{#ff000d}■}$$|[BX Mỹ Đình](https://maps.app.goo.gl/YXchixi7wKaWwNkS7)|[Phú Cường](https://maps.app.goo.gl/X5dXtqgiau4sc8ZV8) (Ba Vì)|20 - 30|15.000 ₫ - 20.000 ₫ (chặng)<br>35.000 ₫ (tuyến)|5:00 - 17:00|**Công ty Cổ phần Vận tải ô tô khách Hà Tây**
 |[**71**](https://wikiroutes.info/en/hanoi?routes=107040)<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[CV Nghĩa Đô](https://maps.app.goo.gl/4U4MfTau4RebQPJY8)|ĐH Quốc gia Hà Nội ([Giảng đường QGHN04A Hòa Lạc](https://maps.app.goo.gl/dJSqVZVdwfFcAq7PA))|15 - 25 - 30 - 45|10.000 ₫ - 20.000 ₫ (chặng)<br>35.000 ₫ (tuyến)|**CV Nghĩa Đô**: 5:20 - 18:30<br>**ĐH Quốc gia Hà Nội**: 6:30 - 18:30|**CTCP Xe khách Hà Nội**
 |[**78**](https://wikiroutes.info/en/hanoi?routes=79396)<br>$${\color{black}■ \color{orange}■}$$<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[BX Mỹ Đình](https://maps.app.goo.gl/YXchixi7wKaWwNkS7)|[BX Tế Tiêu](https://maps.app.goo.gl/5UfXWdqdGqCMZSw16)|50 - 60 - 90|10.000 ₫ - 25.000 ₫ - 30.000 ₫ (chặng)<br>35.000 ₫ (tuyến)|**BX Mỹ Đình**: 5:45 - 18:30<br>**BX Tế Tiêu**: 4:30 - 18:00|**CT TNHH Vận tải và Du lịch Bảo Châu**
-### Tuyến buýt liên tỉnh
+## Tuyến buýt liên tỉnh
 |Tuyến|Đầu A|Đầu B|Tần suất (phút)|Giá vé|Thời gian HĐ|Đơn vị quản lí
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[**01**](https://wikiroutes.info/en/thai-nguyen?routes=78537) (Thái Nguyên)<br>$${\color{#90EE90}■ \color{#023020}■}$$|[Tân Long](https://maps.app.goo.gl/JHyB3NTod5io4Pty6) ↔ Phổ Yên|Phố Nỉ ([TTTM Bình An](https://maps.app.goo.gl/iJ6BmmYgC7ot5QXe6))|15|13.000 ₫ - 15.000 ₫ - 18.000 ₫ - 20.000 ₫ - 23.000 ₫ - 25.000 ₫ - 28.000 ₫ - 30.000 ₫ - 32.000 ₫ - 35.000 ₫ (chặng)<br>40.000 ₫ (tuyến)|05:30 - 19:00|**CTCP Thương mại và Du lịch Hà Lan**
@@ -184,3 +187,33 @@
 |[**214**](https://wikiroutes.info/en/hanoi?routes=92462)<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[BX Phủ Lý](https://maps.app.goo.gl/ahx1iTj52U2j8HfT9)|[BX Yên Nghĩa](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)|45 - 50 - 60 - 90|10.000 ₫ - 35.000 ₫ (chặng)<br>45.000 ₫ (tuyến)|**BX Phủ Lý**: 5:20 - 8:00; 13:00 - 15:00<br>**BX Yên Nghĩa**: 8:00 - 10:30; 15:00 - 17:30|**CTCP Xe Bus Hà Nam**
 |[**215**](https://wikiroutes.info/en/hanoi?routes=98969)<br>$${\color{white}■ \color{black}■}$$|[BX Mỹ Đình](https://maps.app.goo.gl/YXchixi7wKaWwNkS7) ↔ TP Nam Định|Đò Quan ↔ [BX Trực Ninh](https://maps.app.goo.gl/CVE8UZhELiqdqki86)|10 - 20 - 30|35.000 ₫ - 65.000 ₫ - 85.000 ₫ (chặng)<br>100.000 ₫ (tuyến)|**BX Mỹ Đình**: 5:00 - 20:00<br>**BX Trực Ninh**: 4:00 - 19:00|**CTCP Xe khách Hà Nội**
 |[**215B**](https://wikiroutes.info/en/hanoi?routes=155310)<br>$${\color{white}■ \color{black}■}$$|[BX Mỹ Đình](https://maps.app.goo.gl/YXchixi7wKaWwNkS7) ↔ Cao Bồ|Hải Hậu ↔ [BX Trực Ninh](https://maps.app.goo.gl/CVE8UZhELiqdqki86)|20 - 30|35.000 ₫ - 65.000 ₫ - 85.000 ₫ (chặng)<br>100.000 ₫ (tuyến)|**BX Mỹ Đình**: 5:00 - 20:00<br>**BX Trực Ninh**: 4:00 - 19:00|**CTCP Xe khách Hà Nội**
+</details>
+<details>
+<summary><b>CÁC TUYẾN BUÝT NỘI KHU</b></summary>
+  
+## Vinbus
+|Tuyến|Đầu A|Đầu B|Tần suất (phút)|Giá vé|Thời gian HĐ|TGHĐ (Cuối tuần)
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|[**NIA**](https://maps.vinbus.vn/hn/route/101110)<br>$${\color{#89F336}■ \color{black}■}$$|Sân bay Nội Bài ([Tầng 1 - Nhà ga T2](https://maps.app.goo.gl/JmF4qo2HASpqbnf59))|Sân bay Nội Bài ([Tầng 2 - Nhà ga T1](https://maps.app.goo.gl/4Vqw45iBsNpWBUCLA))|10 - 15|Miễn phí|**Nhà ga T2**: 5:00 - 1:20<br>**Nhà ga T1**: 5:10 - 1:30|**〇**|
+|[**OCP1**](https://maps.vinbus.vn/hn/route/101014)<br>$${\color{#89F336}■ \color{black}■}$$|[Bến Trả OCP 2-3](https://maps.app.goo.gl/URrbBKyZtyYoQcPV8)|[Bến Trả OCP 2-3](https://maps.app.goo.gl/URrbBKyZtyYoQcPV8)|GIÃN|Miễn phí|0:00 - 0:00|**〇**|
+|[**OCP2**](https://maps.vinbus.vn/hn/route/101023)<br>$${\color{#89F336}■ \color{black}■}$$|[A](link)|[A](link)|GIÃN|Miễn phí|0:00 - 0:00|**〇**|
+|[**OCT1**](https://maps.vinbus.vn/hn/route/101011)<br>$${\color{#89F336}■ \color{black}■}$$|[A](link)|[A](link)|GIÃN|Miễn phí|0:00 - 0:00|**〇**|
+|[**OCT2**](https://maps.vinbus.vn/hn/route/101012)<br>$${\color{#89F336}■ \color{black}■}$$|[A](link)|[A](link)|GIÃN|Miễn phí|0:00 - 0:00|**〇**|
+|[**SMC1**](https://maps.vinbus.vn/hn/route/101015)<br>$${\color{#89F336}■ \color{black}■}$$|[A](link)|[A](link)|GIÃN|Miễn phí|0:00 - 0:00|**〇**|
+## EcoPM
+### KĐT EcoPark:
+- [Các tuyến buýt Giai đoạn 1](https://ecopark.com.vn/images/upload_file/service_bus/gd1-lich-trinh-ap-dung-24032025_1742746737.pdf) - [Các tuyến buýt giai đoạn 2](https://ecopark.com.vn/images/upload_file/service_bus/gd2-lich-trinh-ap-dung-24032025_1742876930.pdf)
+</details>
+<details>
+<summary><b>CÁC TUYẾN BUÝT DU LỊCH, THƯƠNG MẠI</b></summary>
+
+## Hanoi City Tour
+|Tuyến|Đầu A|Đầu B|Tần suất (phút)|Giá vé|Thời gian HĐ|TGHĐ (Cuối tuần)|Đơn vị quản lí
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|[**CITR01**](https://hopon-hopoff.vn/vi/?toursearch=1&s=Hanoi)<br>$${\color{red}■}$$|Bờ Hồ ([Quảng trường ĐKNT](https://maps.app.goo.gl/4UZVaTJD5fcfu1oC9))|Bờ Hồ ([Quảng trường ĐKNT](https://maps.app.goo.gl/4UZVaTJD5fcfu1oC9))|30|**Người lớn**:<br>150.000 (lượt)<br>300.000 ₫ (4h)<br>450.000 ₫ (24h)<br>650.000 ₫ (48h)<br><br>**Trẻ em**:<br>100.000 ₫ (lượt)<br>200.000 ₫ (4h)<br>300.000 ₫ (24h)<br><br>**Trẻ sơ sinh**: 50.000 ₫ (lượt)|**<Từ <ins>T2</ins> - <ins>T6</ins>>**<br><br>9:00 - 17:00|✖|**Transerco**
+|[**CITR01**](https://hopon-hopoff.vn/vi/?toursearch=1&s=Hanoi) (*cuối tuần*)<br>$${\color{red}■}$$|[Nhà hát Lớn](https://maps.app.goo.gl/7WzbNopuQn8ZPgtr8)|[Nhà hát Lớn](https://maps.app.goo.gl/7WzbNopuQn8ZPgtr8)|30|**[CITR01]**|✖|**<Từ <ins>T7</ins> - <ins>CN</ins>>**<br><br>9:00 - 16:15|**Transerco**
+|[**CITR02**](https://vn-sightseeing.com/city-tours/ha-noi/hanoi_discovery)<br>$${\color{red}■}$$|[Nhà hát Lớn](https://maps.app.goo.gl/7WzbNopuQn8ZPgtr8)|[Nhà hát Lớn](https://maps.app.goo.gl/7WzbNopuQn8ZPgtr8)|30|**Người lớn**:<br>150.000 ₫ (lượt)<br>299.000 ₫ (4h)<br>429.000 ₫ (24h)<br><br>**Trẻ em (6 - 11 tuổi)**:<br>110.000 ₫ (lượt)<br>325.000 ₫ (24h)|**<Từ <ins>T2</ins> - <ins>T6</ins>>**<br><br>9:15 - 17:15 (ngày)<br>18:00 - 20:15 (đêm)|✖|**CTCP Ngắm cảnh Việt Nam**
+|[**CITR02**](https://vn-sightseeing.com/city-tours/ha-noi/hanoi_discovery) (*cuối tuần*)<br>$${\color{red}■}$$|[Nhà hát Lớn](https://maps.app.goo.gl/7WzbNopuQn8ZPgtr8)|[Nhà hát Lớn](https://maps.app.goo.gl/7WzbNopuQn8ZPgtr8)|30|**CITR02**|✖|**<Từ <ins>T7</ins> - <ins>CN</ins>>**<br><br>9:15 - 17:15 (ngày)<br>18:30 - 20:30 (đêm)|**CTCP Ngắm cảnh Việt Nam**
+|[**CITR03**](https://hncitytour.vn/en/danh-lam-thang-canh/routes)<br>$${\color{red}■}$$|Bờ Hồ ([Quảng trường ĐKNT](https://maps.app.goo.gl/4UZVaTJD5fcfu1oC9))|Bờ Hồ ([Quảng trường ĐKNT](https://maps.app.goo.gl/4UZVaTJD5fcfu1oC9))|30|**Bình thường**:<br>100.000 ₫ (lượt)<br>200.000 ₫ (6h)<br>250.000 ₫ (24h)<br><br>**Trẻ em (dưới 6 tuổi)**:<br> Miễn phí|9:00 - 18:00 (ngày)<br>18:30 - 21:00 (đêm)|✖|**CTCP Xe khách Hà Nội**
+|[**CITR03**](https://hncitytour.vn/en/danh-lam-thang-canh/routes) (*cuối tuần*)<br>$${\color{red}■}$$|[Nhà hát Lớn](https://maps.app.goo.gl/7WzbNopuQn8ZPgtr8)|[Nhà hát Lớn](https://maps.app.goo.gl/7WzbNopuQn8ZPgtr8)|30|**CITR03**|✖|9:00 - 18:00 (ngày)<br>18:30 - 21:00 (đêm)|**CTCP Xe khách Hà Nội**
+</details>
