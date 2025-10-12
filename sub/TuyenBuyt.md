@@ -1,5 +1,5 @@
 <details>
-<summary><h2>LƯU Ý</h2></summary>
+<summary>LƯU Ý</summary>
 
 ## DỮ LIỆU
 > - Dữ liệu các tuyến thuộc Transerco được lấy từ [timbus.vn](http://timbus.vn/fleets.aspx), các tuyến thuộc Vinbus được lấy từ [Vinbus map](https://maps.vinbus.vn/hn) và các tuyến tư nhân còn lại được lấy từ [Busmap map](https://map.busmap.vn/hn)
@@ -15,7 +15,7 @@
 > - Các tuyến chạy lộ trình dài hoặc có trùng điểm đầu cuối với các tuyến khác sẽ được bổ sung chi tiết lộ trình bằng kí tự **↔**
 </details>
 <details>
-<summary><h2>CÁC TUYẾN BUÝT CÓ TRỢ GIÁ</h2></summary>
+<summary>CÁC TUYẾN BUÝT CÓ TRỢ GIÁ</summary>
   
 ## DANH SÁCH
   
@@ -169,7 +169,7 @@
 |163<br>$${\color{#90EE90}■ \color{#023020}■}$$|[BX Yên Nghĩa](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)|[ĐTC Nhổn](https://maps.app.goo.gl/oxWsWLMGvtd2QCYR7)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Công ty Bảo Yến**
 </details>
 <details>
-<summary><h2>CÁC TUYẾN BUÝT KHÔNG TRỢ GIÁ</h2></summary>
+<summary>CÁC TUYẾN BUÝT KHÔNG TRỢ GIÁ</summary>
   
 ## Tuyến buýt nhanh đi sân bay Nội Bài
 |Tuyến|Đầu A|Đầu B|Tần suất (phút)|Giá vé|Thời gian HĐ|TGHĐ (Cuối tuần)|Đơn vị quản lí
@@ -205,7 +205,7 @@
 |[**215B**](https://wikiroutes.info/en/hanoi?routes=155310)<br>$${\color{white}■ \color{black}■}$$|[BX Mỹ Đình](https://maps.app.goo.gl/YXchixi7wKaWwNkS7) ↔ Cao Bồ|Hải Hậu ↔ [BX Trực Ninh](https://maps.app.goo.gl/CVE8UZhELiqdqki86)|20 - 30|35.000 ₫ - 65.000 ₫ - 85.000 ₫ (chặng)<br>100.000 ₫ (tuyến)|**BX Mỹ Đình**: 5:00 - 20:00<br>**BX Trực Ninh**: 4:00 - 19:00|**CTCP Xe khách Hà Nội**
 </details>
 <details>
-<summary><h2>CÁC TUYẾN BUÝT NỘI KHU</h2></summary>
+<summary>CÁC TUYẾN BUÝT NỘI KHU</summary>
   
 ## Vinbus
 |Tuyến|Đầu A|Đầu B|Tần suất (phút)|Giá vé|Thời gian HĐ|TGHĐ (Cuối tuần)
@@ -221,7 +221,7 @@
 - [Các tuyến buýt Giai đoạn 1](https://ecopark.com.vn/images/upload_file/service_bus/gd1-lich-trinh-ap-dung-24032025_1742746737.pdf) - [Các tuyến buýt giai đoạn 2](https://ecopark.com.vn/images/upload_file/service_bus/gd2-lich-trinh-ap-dung-24032025_1742876930.pdf)
 </details>
 <details>
-<summary><h2>CÁC TUYẾN BUÝT DU LỊCH, THƯƠNG MẠI</h2></summary>
+<summary>CÁC TUYẾN BUÝT DU LỊCH, THƯƠNG MẠI</summary>
 
 ## Hanoi City Tour
 |Tuyến|Đầu A|Đầu B|Tần suất (phút)|Giá vé|Thời gian HĐ|TGHĐ (Cuối tuần)|Đơn vị quản lí
