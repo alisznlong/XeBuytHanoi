@@ -24,5 +24,5 @@
 ### ⠀⠀● [CÁC TUYẾN BUÝT DU LỊCH](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/buyt/BuytDuLich.md)
 
 ## THẺ VÉ XE BUÝT
-### ⠀⠀● [VÉ THÁNG XE BUÝT](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/theve/TheMienPhi.md)
+### ⠀⠀● [VÉ THÁNG XE BUÝT](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/theve/VeThang.md)
 ### ⠀⠀● [THẺ ĐI XE BUÝT MIỄN PHÍ](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/theve/TheMienPhi.md)
