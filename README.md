@@ -176,7 +176,7 @@
 |Tuyến|Đầu A|Đầu B|Tần suất (phút)|Giá vé|Thời gian HĐ|TGHĐ (Cuối tuần)|Đơn vị quản lí
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |68<br>$${\color{orange}■ }$$|Hà Đông ([TTTM Mê Linh Plaza Hà Đông](https://maps.app.goo.gl/XsvG3r63tVS4zUpY9))|Sân bay Nội Bài ([Sảnh Nhà ga T1](https://maps.app.goo.gl/EsJ4R6pEomQzpWYR9))|40 - 45 -50 - 55|50.000 ₫|**Hà Đông**: 5:45 - 20:05<br>**Sân bay Nội Bài**: 7:35 - 22:15|**〇**|XN bus nhanh Hà Nội **(Transerco)**
-|86<br>86<sup>CT</sup><br>$${\color{orange}■ }$$|[Ga Hà Nội](https://maps.app.goo.gl/rg4tp3s9wzkBPvnL7)|Sân bay Nội Bài ([Nhà ga T2](https://maps.app.goo.gl/4ttHqL6YHYTwuiwi6))|30 - 40 - 45|45.000 ₫|**Ga Hà Nội**: 5:15 - 20:25<br>**Sân bay Nội Bài**: 6:45 - 22:10|**<86<sup>CT</sup>: T7 - CN>**<br><br>**Ga Hà Nội**: 5:30 - 20:30<br>**Sân bay Nội Bài**: 7:00 - 22:00|XN bus nhanh Hà Nội **(Transerco)**
+|86<br>86<sup>CT</sup><br>$${\color{orange}■ }$$|[Ga Hà Nội](https://maps.app.goo.gl/rg4tp3s9wzkBPvnL7)|Sân bay Nội Bài ([Nhà ga T2](https://maps.app.goo.gl/JmF4qo2HASpqbnf59))|30 - 40 - 45|45.000 ₫|**Ga Hà Nội**: 5:15 - 20:25<br>**Sân bay Nội Bài**: 6:45 - 22:10|**<86<sup>CT</sup>: T7 - CN>**<br><br>**Ga Hà Nội**: 5:30 - 20:30<br>**Sân bay Nội Bài**: 7:00 - 22:00|XN bus nhanh Hà Nội **(Transerco)**
 ### Tuyến buýt không trợ giá khác trong địa phận thành phố
 |Tuyến|Đầu A|Đầu B|Tần suất (phút)|Giá vé|Thời gian HĐ|Đơn vị quản lí
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -262,11 +262,16 @@
 <summary>DANH SÁCH CÁC TUYẾN BUÝT NỘI KHU & THƯƠNG MẠI</summary>
   
 ## Tuyến buýt nội khu
-###  Sân bay Nội Bài: [NIA](https://maps.vinbus.vn/hn/route/101110)
-### KĐT Ocean Park: [OCP1](https://maps.vinbus.vn/hn/route/101014) - [OCP2](https://maps.vinbus.vn/hn/route/101023)
-### KĐT Royal City: [OCT1](https://maps.vinbus.vn/hn/route/101011)
-### KĐT Ocean City: [OCT1](https://maps.vinbus.vn/hn/route/101011) - [OCT2](https://maps.vinbus.vn/hn/route/101012)
-### KĐT Smart City: [SMC1](https://maps.vinbus.vn/hn/route/101015)
+### Vinbus
+|Tuyến|Đầu A|Đầu B|Tần suất (phút)|Giá vé|Thời gian HĐ|TGHĐ (Cuối tuần)
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|[**NIA**](https://maps.vinbus.vn/hn/route/101110)<br>$${\color{#89F336}■ \color{black}■}$$|Sân bay Nội Bài ([Tầng 1 - Nhà ga T2](https://maps.app.goo.gl/JmF4qo2HASpqbnf59))|Sân bay Nội Bài ([Tầng 2 - Nhà ga T1](https://maps.app.goo.gl/4Vqw45iBsNpWBUCLA))|10 - 15|Miễn phí|**Nhà ga T2**: 5:00 - 1:20<br>**Nhà ga T1**: 5:10 - 1:30|**〇**|
+|[**OCP1**](https://maps.vinbus.vn/hn/route/101014)<br>$${\color{#89F336}■ \color{black}■}$$|[Bến Trả OCP 2-3](https://maps.app.goo.gl/URrbBKyZtyYoQcPV8)|[Bến Trả OCP 2-3](https://maps.app.goo.gl/URrbBKyZtyYoQcPV8)|GIÃN|Miễn phí|0:00 - 0:00|**〇**|
+|[**OCP2**](https://maps.vinbus.vn/hn/route/101023)<br>$${\color{#89F336}■ \color{black}■}$$|[A](link)|[A](link)|GIÃN|Miễn phí|0:00 - 0:00|**〇**|
+|[**OCT1**](https://maps.vinbus.vn/hn/route/101011)<br>$${\color{#89F336}■ \color{black}■}$$|[A](link)|[A](link)|GIÃN|Miễn phí|0:00 - 0:00|**〇**|
+|[**OCT2**](https://maps.vinbus.vn/hn/route/101012)<br>$${\color{#89F336}■ \color{black}■}$$|[A](link)|[A](link)|GIÃN|Miễn phí|0:00 - 0:00|**〇**|
+|[**SMC1**](https://maps.vinbus.vn/hn/route/101015)<br>$${\color{#89F336}■ \color{black}■}$$|[A](link)|[A](link)|GIÃN|Miễn phí|0:00 - 0:00|**〇**|
+
 ### KĐT EcoPark: [Các tuyến buýt Giai đoạn 1](https://ecopark.com.vn/images/upload_file/service_bus/gd1-lich-trinh-ap-dung-24032025_1742746737.pdf) - [Các tuyến buýt giai đoạn 2](https://ecopark.com.vn/images/upload_file/service_bus/gd2-lich-trinh-ap-dung-24032025_1742876930.pdf)
 ## Tuyến buýt thương mại
 ### Hanoi City Tour
