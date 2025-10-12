@@ -1,3 +1,4 @@
+## Các tuyến buýt có trợ giá
 |Tuyến|Đầu A|Đầu B|Tần suất (phút)|Giá vé|Thời gian HĐ|TGHĐ (Cuối tuần)|Đơn vị quản lí
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |BRT 01<br>$${\color{#49af7d}■ \color{#90D5FF}■ \color{#ffffff}■}$$|[BX Yên Nghĩa](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)|[BX Kim Mã](https://maps.app.goo.gl/6xmv3q6foTNgZeBv6)|5 - 10 - 15|8.000 ₫|5:00 - 22:00|**<CHỦ NHẬT>**<br><br>**BX Kim Mã**: 5:00 - 22:03|XN bus nhanh Hà Nội **(Transerco)**
