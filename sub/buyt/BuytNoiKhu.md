@@ -1,4 +1,5 @@
-# CÁC TUYẾN BUÝT NỘI KHU
+# CÁC TUYẾN BUÝT NỘI KHU/NỘI BỘ
+> Các tuyến buýt nội bộ như **Vietcombank Green Bus** không liệt kê ở đây do quy mô quá nhỏ, khó tiếp cận hơn
 ## Vinbus
 |Tuyến|Đầu A|Đầu B|Tần suất (phút)|Giá vé|Thời gian HĐ|TGHĐ (Cuối tuần)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
