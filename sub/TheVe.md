@@ -1,7 +1,7 @@
 # THẺ VÉ XE BUÝT
 <details>
 
-<summary>DỊCH VỤ VÉ THÁNG XE BUÝT</summary>
+<summary><b>DỊCH VỤ VÉ THÁNG XE BUÝT</b></summary>
 
 ## Đăng kí vé tháng xe buýt
 ### Thẻ vật lý
@@ -25,7 +25,7 @@
 - Thẻ ảo: Gia hạn trên ứng dụng **Thẻ Vé Giao Thông HN** <sup>[[iOS](https://apps.apple.com/vn/app/th%E1%BA%BB-v%C3%A9-giao-th%C3%B4ng-hn/id6479341523)]</sup> <sup>[[Android](https://play.google.com/store/apps/details?id=com.vnpass.hn_bus_customer)]</sup> hoặc tại website [vedientuonline.com.vn](https://vedientuonline.com.vn/renewal)
 </details>
 <details>
-<summary>THẺ ĐI XE BUÝT MIỄN PHÍ</summary>
+<summary><b>THẺ ĐI XE BUÝT MIỄN PHÍ</b></summary>
 
 ## Đối tượng áp dụng
 - Người bị địch bắt tù đày 
