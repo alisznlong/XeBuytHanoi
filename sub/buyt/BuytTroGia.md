@@ -1,4 +1,4 @@
-## CÁC TUYẾN BUÝT CÓ TRỢ GIÁ
+# CÁC TUYẾN BUÝT CÓ TRỢ GIÁ
   
 |Tuyến|Đầu A|Đầu B|Tần suất (phút)|Giá vé|Thời gian HĐ|TGHĐ (Cuối tuần)|Đơn vị quản lí
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
