@@ -44,7 +44,7 @@
 - Người cao tuổi: Căn cước công dân
 - Người khuyết tật: Thẻ người khuyến tật hoặc Giấy xác nhận người khuyến tật
 - Hộ nghèo: Sổ hộ nghèo hoặc Giấy xác nhận hộ nghèo
-- Thương binh, bệnh binh, người có công,...: Thẻ thương binh, thẻ bệnh binh,...
+- Thương binh, bệnh binh, người có công, người chịu ảnh hưởng chiến tranh: Thẻ thương binh, thẻ bệnh binh,...
 ## Đăng kí thẻ miễn phí
 ### Thẻ vật lý
 - Trực tiếp: [Phòng bán vé](https://maps.app.goo.gl/LBvGmhNcPNaZgYew5) - Tầng 1 Tòa nhà PTA số Kim Mã
