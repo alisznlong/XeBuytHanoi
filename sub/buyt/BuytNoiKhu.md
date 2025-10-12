@@ -9,5 +9,6 @@
 |[**OCT2**](https://maps.vinbus.vn/hn/route/101012)<br>$${\color{#89F336}■ \color{black}■}$$|[A](link)|[A](link)|GIÃN|Miễn phí|0:00 - 0:00|**〇**|
 |[**SMC1**](https://maps.vinbus.vn/hn/route/101015)<br>$${\color{#89F336}■ \color{black}■}$$|[A](link)|[A](link)|GIÃN|Miễn phí|0:00 - 0:00|**〇**|
 ## EcoPM
-### KĐT EcoPark:
-- [Các tuyến buýt Giai đoạn 1](https://ecopark.com.vn/images/upload_file/service_bus/gd1-lich-trinh-ap-dung-24032025_1742746737.pdf) - [Các tuyến buýt giai đoạn 2](https://ecopark.com.vn/images/upload_file/service_bus/gd2-lich-trinh-ap-dung-24032025_1742876930.pdf)
+### KĐT Ecopark: [Các tuyến buýt Giai đoạn 1](https://ecopark.com.vn/images/upload_file/service_bus/gd1-lich-trinh-ap-dung-24032025_1742746737.pdf) - [Các tuyến buýt giai đoạn 2](https://ecopark.com.vn/images/upload_file/service_bus/gd2-lich-trinh-ap-dung-24032025_1742876930.pdf)
+> - Tuyến buýt không phục vụ công cộng, yêu cầu có <ins>**thẻ vé riêng**</ins>
+> - Thẻ vé chỉ được cấp cho các đối tượng: <ins>**Cư dân Ecopark**</ins>, Nhân viên thuộc các <ins>**doanh nghiệp**</ins>, <ins>**hộ kinh doanh**</ins> đang hoạt động trên địa bàn KĐT Ecopark
