@@ -1,6 +1,5 @@
 # XE BUÝT HÀ NỘI
-
-## DANH SÁCH CÁC TUYẾN XE BUÝT
+## TUYẾN BUÝT
 <details>
 <summary>LƯU Ý</summary>
 
@@ -26,3 +25,6 @@
 ## THẺ VÉ XE BUÝT
 ### ⠀⠀● [VÉ THÁNG XE BUÝT](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/theve/VeThang.md)
 ### ⠀⠀● [THẺ ĐI XE BUÝT MIỄN PHÍ](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/theve/TheMienPhi.md)
+
+## [MỞ RỘNG] TUYẾN TÀU ĐIỆN ĐÔ THỊ
+### ⠀⠀● [DANH SÁCH TUYẾN](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/taudien/DanhSach.md)
