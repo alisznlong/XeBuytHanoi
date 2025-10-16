@@ -1,6 +1,6 @@
 # CÁC TUYẾN BUÝT CÓ TRỢ GIÁ
  
-|Tuyến<br>—<br><sup>Màu nhận diện</sup>|Đầu A|Đầu B|Tần suất<br><sup>(phút)</sup>|Giá vé|Thời gian hoạt động|TGHĐ<br>(Cuối tuần)|Đơn vị quản lí
+|Tuyến<br>—<br><sup>Màu nhận diện</sup>|Đầu A|Đầu B|Tần suất<br><sup>(phút)</sup>|Giá vé|Thời gian hoạt động|TGHĐ<br><sup>(Cuối tuần)</sup>|Đơn vị quản lí
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |BRT 01<br>$${\color{#49af7d}■ \color{#90D5FF}■ \color{#ffffff}■}$$|[BX Yên Nghĩa](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)|[BX Kim Mã](https://maps.app.goo.gl/6xmv3q6foTNgZeBv6)|5 - 10 - 15|8.000 ₫|5:00 - 22:00|**<CHỦ NHẬT>**<br><br>**BX Kim Mã**: 5:00 - 22:03|[XN bus nhanh BRT Hà Nội](https://transerco.com.vn/vi/xi-nghiep-bus-nhanh-brt-ha-noi/xi-nghiep-xe-buyt-nhanh-brt-ha-noi.html) **(Transerco)**
 |[**E01**](https://maps.vinbus.vn/hn/route/101103)<br>$${\color{#89F336}■ \color{black}■}$$|[BX Mỹ Đình](https://maps.app.goo.gl/YXchixi7wKaWwNkS7)|[KĐT Ocean Park](https://maps.app.goo.gl/tiH2yA2ZSmZK56g1A)|12 - 20|12.000 ₫|5:00 - 21:00|**〇**|[**VinBus**](https://vinbus.vn/)
