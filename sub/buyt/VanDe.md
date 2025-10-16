@@ -1,6 +1,20 @@
 # TITLE
 ## XE VẬN HÀNH
-### ĐỢI XE QUÁ LÂU
+<details>
+  <summary>ĐỢI XE QUÁ LÂU</summary>
+</details>
+<details>
+  <summary><b>XE BỎ LƯỢT/KHÔNG ĐÓN KHÁCH</b></summary>
+  
+   - CAO NHẤT
+     - CAO NHÌ
+       - CAO BA
+   - <ins>**Ngoài giờ hoạt động**</ins>: Các xe vận hành theo khung giờ cố định, không đón khách khi chưa đến lượt hoặc đã hết lượt. Các xe ngoài giờ hoạt động thường để LED biểu thị **XE VỀ GARA**/**XE HUY ĐỘNG**/**E00 TUYẾN NGỪNG HOẠT ĐỘNG** hoặc tắt LED và đèn trong xe.<br>
+     - Ví dụ:<br>
+       - Tuyến A mở bến lúc 5:00, vào lúc 5:30 có xe của tuyến chạy trên đường nhưng không đón khách, đấy là xe di chuyển đến đầu bến để chuẩn bị vận hành.
+       - Tương tự với xe cuối giờ hoạt động. Tuyến A đóng bến lúc 21:00, vào lúc 20:55 có xe của tuyến trả khách tại bến nhưng đi luôn và không đón khách tiếp, đấy là xe đã hết lượt. Lượt chạy 21:00 sẽ do khác đảm nhiệm.
+</details>
+
 ### XE XUẤT PHÁT KHÔNG ĐÚNG GIỜ
 ### XE KHÔNG ĐÚNG SỐ HIỆU TUYẾN/MÀU NHẬN DIỆN
 ### XE CHẠY KHÔNG ĐÚNG LỘ TRÌNH
