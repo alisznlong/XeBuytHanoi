@@ -16,9 +16,10 @@
        - Tuyến A mở bến lúc 5:00, vào lúc 5:30 có xe của tuyến chạy trên đường nhưng không đón khách, đấy là xe di chuyển đến đầu bến để chuẩn bị vận hành.
        - Tuyến A đóng bến lúc 21:00, vào lúc 20:55 có xe của tuyến trả khách tại bến nhưng đi luôn và không đón khách tiếp, đấy là xe đã hết lượt. Lượt chạy 21:00 sẽ do khác đảm nhiệm.<br>
      - Nếu xe buýt đang trong giờ vận hành nhưng không đón khách tại điểm, vui lòng liên hệ [?]
+   - <ins>**Xe hỏng/gặp sự cố**</ins>:
 </details>
 <details>
-  <summary>**XE XUẤT PHÁT KHÔNG ĐÚNG GIỜ**</summary>
+  <summary><b></b>XE XUẤT PHÁT KHÔNG ĐÚNG GIỜ</summary><b></summary>
 
   - Xe buýt được phép xuất phát chênh lệch 1-3 phút so với lịch chạy cố định. Để tránh việc nhỡ xe, vui lòng chờ tại đầu bến tối thiểu 3-5 phút trước khi đến lịch chạy.
   - Các xe bị <ins>âm giờ</ins> (*về bến muộn do ùn tắc giao thông*) có thể sẽ đón khách và đi luôn ngay sau khi trả khách tại bến để đảm bảo các lịch chạy kế tiếp được ổn định.
