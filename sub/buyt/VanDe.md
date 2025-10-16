@@ -19,7 +19,7 @@
    - <ins>**Xe hỏng/gặp sự cố**</ins>: Trong trường hợp xe hỏng/gặp sự cố nặng dẫn tới việc không thể tiếp tục vận hành, xe sẽ ngừng đón khách và di chuyển về khu vực sửa chữa của đơn vị quản lí.
 </details>
 <details>
-  <summary><b></b>XE XUẤT PHÁT KHÔNG ĐÚNG GIỜ</summary><b></summary>
+  <summary><b>XE XUẤT PHÁT KHÔNG ĐÚNG GIỜ</summary></b></summary>
 
   - Xe buýt được phép xuất phát chênh lệch 1-3 phút so với lịch chạy cố định. Để tránh việc nhỡ xe, vui lòng chờ tại đầu bến tối thiểu 3-5 phút trước khi đến lịch chạy.
   - Các xe bị <ins>âm giờ</ins> (*về bến muộn do ùn tắc giao thông*) có thể sẽ đón khách và đi luôn ngay sau khi trả khách tại bến để đảm bảo các lịch chạy kế tiếp được ổn định.
