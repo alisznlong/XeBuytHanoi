@@ -16,7 +16,7 @@
        - Tuyến A mở bến lúc 5:00, vào lúc 5:30 có xe của tuyến chạy trên đường nhưng không đón khách, đấy là xe di chuyển đến đầu bến để chuẩn bị vận hành.
        - Tuyến A đóng bến lúc 21:00, vào lúc 20:55 có xe của tuyến trả khách tại bến nhưng đi luôn và không đón khách tiếp, đấy là xe đã hết lượt. Lượt chạy 21:00 sẽ do khác đảm nhiệm.<br>
      - Nếu xe buýt đang trong giờ vận hành nhưng không đón khách tại điểm, vui lòng liên hệ [?]
-   - <ins>**Xe hỏng/gặp sự cố**</ins>:
+   - <ins>**Xe hỏng/gặp sự cố**</ins>: Trong trường hợp xe hỏng/gặp sự cố nặng dẫn tới việc không thể tiếp tục vận hành, xe sẽ ngừng đón khách và di chuyển về khu vực sửa chữa của đơn vị quản lí.
 </details>
 <details>
   <summary><b></b>XE XUẤT PHÁT KHÔNG ĐÚNG GIỜ</summary><b></summary>
