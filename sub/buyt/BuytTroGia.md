@@ -130,13 +130,13 @@
 |115<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|[Trung tâm Tân Đạt](https://transerco.com.vn/vi/trung-tam-tan-dat/trung-tam-tan-dat.html) **(Transerco)**
 |116<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|[XN bus nhanh BRT Hà Nội](https://transerco.com.vn/vi/xi-nghiep-bus-nhanh-brt-ha-noi/xi-nghiep-xe-buyt-nhanh-brt-ha-noi.html) **(Transerco)**
 |117<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|[XN bus Cầu Bươu](https://transerco.com.vn/vi/xi-nghiep-bus-cau-buou/xi-nghiep-xe-buyt-cau-buou.html) **(Transerco)**
-|118<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|[**Công ty Cổ phần Vận tải ô tô khách Hà Tây**](https://otokhachhatay.com.vn/)
+|118<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|[**CTCP Vận tải ô tô khách Hà Tây**](https://otokhachhatay.com.vn/)
 |119<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|[XN bus Cầu Bươu](https://transerco.com.vn/vi/xi-nghiep-bus-cau-buou/xi-nghiep-xe-buyt-cau-buou.html) **(Transerco)**
 |122<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|[**CTCP Xe khách Hà Nội**](https://xekhachhn.com/)
 |123<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[BX Yên Nghĩa](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|**Đông Anh Bus**
 |124<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[BX Yên Nghĩa](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|[**CTCP Xe khách Hà Nội**](https://xekhachhn.com/)
 |125<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|[Bus Liên Ninh](https://transerco.com.vn/vi/cong-ty-cp-van-tai-va-dich-vu-lien-ninh/cong-ty-co-phan-van-tai-dich-vu-lien-ninh.html) **(Transerco)**
-|126<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|[**Công ty Cổ phần Vận tải ô tô khách Hà Tây**](https://otokhachhatay.com.vn/)
+|126<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|[**CTCP Vận tải ô tô khách Hà Tây**](https://otokhachhatay.com.vn/)
 |142<br>$${\color{#90EE90}■ \color{#023020}■}$$|[BX Nam Thăng Long](https://maps.app.goo.gl/xitdKkkYfKCp3ZHc7)|TTTM Vincom Long Biên ([điểm cuối tuyến 142](https://maps.app.goo.gl/qY1CF3xQYtr1fw5r5))|15 - 20|10.000 ₫|5:00 - 21:00|**〇**|[**Công ty Bảo Yến**](http://baoyenbus.com/)
 |143<br>$${\color{#90EE90}■ \color{#023020}■}$$|Hào Nam ([Ga Cát Linh](https://maps.app.goo.gl/7E9LrZ6jy2vBVCGd8))|[Thị trấn Đông Anh](https://maps.app.goo.gl/NEJ7PnsKFzjedaqV6)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|[**Công ty Bảo Yến**](http://baoyenbus.com/)
 |144<br>$${\color{#90EE90}■ \color{#023020}■}$$|[ĐH Mỏ](https://maps.app.goo.gl/BPSizaj46wXQj7ts7)|[ĐTC Trần Khánh Dư](https://maps.app.goo.gl/8PAhti9WTfDAX9LQA)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|[**Công ty Bảo Yến**](http://baoyenbus.com/)
