@@ -135,7 +135,7 @@ Trong một số trường hợp, tuyến thiếu xe vận hành nhưng không �
   - Tuyến (buýt không trợ giá): 70A, 70B, 213 (HB05)
 - **VinBus** (*Công ty TNHH dịch vụ vận tải sinh thái Vinbus*): 1900866663
   - Tuyến (buýt trợ giá): E01, E02, E03, E04, E05, E06, E07, E08, E09, E10, E11, 43
-  - Nội khu: NIA, OCP1, OCP2, OCT1, OCT2, SMC1
+  - Tuyến (nội khu): NIA, OCP1, OCP2, OCT1, OCT2, SMC1
 - **CTCP Ngắm cảnh Việt Nam**: 1900558865
   - Tuyến: CITR02
 - **CT TNHH Vận tải và Du lịch Bảo Châu**: 0981226638
