@@ -93,7 +93,7 @@
 |66<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|[XN bus nhanh BRT Hà Nội](https://transerco.com.vn/vi/xi-nghiep-bus-nhanh-brt-ha-noi/xi-nghiep-xe-buyt-nhanh-brt-ha-noi.html) **(Transerco)**
 |67<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|[XN bus 10-10](https://transerco.com.vn/vi/xi-nghiep-bus-10---10/xi-nghiep-xe-buyt-10-10-ha-noi.html) **(Transerco)**
 |69<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|[CTCP Vận tải Newway](https://transerco.com.vn/vi/cong-ty-cp-van-tai-newway/cong-ty-cp-van-tai-newway.html) **(Transerco)**
-|72<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|[**Công ty Cổ phần Vận tải ô tô khách Hà Tây**](https://otokhachhatay.com.vn/)
+|72<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|[**CTCP ô tô vận tải Hà Tây**](https://otokhachhatay.com.vn/)
 |74<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|[**CT LDVC Quốc tế Hải Vân**](https://haivan.com/)
 |84<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|[XN bus Cầu Bươu](https://transerco.com.vn/vi/xi-nghiep-bus-cau-buou/xi-nghiep-xe-buyt-cau-buou.html) **(Transerco)**
 |85<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[A](link)|[B](link)|GIÃN|GIÁ₫|THỜIGIAN|**〇**|[XN bus Cầu Bươu](https://transerco.com.vn/vi/xi-nghiep-bus-cau-buou/xi-nghiep-xe-buyt-cau-buou.html) **(Transerco)**
