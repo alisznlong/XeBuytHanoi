@@ -4,15 +4,12 @@
   <summary><b>ĐỢI XE QUÁ LÂU</b></summary>
   <br>
   
-  - Vào các khung giờ cao điểm, do ùn tắc giao thông, việc lưu thông có thể gặp gián đoạn dẫn đến việc xe buýt trễ giờ. Trong một số trường hợp, xe buýt có thể tạm thời đổi lộ trình dẫn đến việc không có xe xuất hiện tại vài điểm dừng, tham khảo ở dưới.
+Vào các khung giờ cao điểm, do ùn tắc giao thông, việc lưu thông có thể gặp gián đoạn dẫn đến việc xe buýt trễ giờ. Trong một số trường hợp, xe buýt có thể tạm thời đổi lộ trình dẫn đến việc không có xe xuất hiện tại vài điểm dừng, tham khảo ở dưới.
 </details>
 <details>
   <summary><b>XE BỎ LƯỢT/KHÔNG ĐÓN KHÁCH</b></summary>
   <br>
-  
-   - CAO NHẤT
-     - CAO NHÌ
-       - CAO BA
+
    - <ins>**Ngoài giờ hoạt động**</ins>: Các xe vận hành theo khung giờ cố định, không đón khách khi chưa đến lượt hoặc đã hết lượt. Các xe ngoài giờ hoạt động thường để LED biểu thị **XE VỀ GARA**/**XE HUY ĐỘNG**/**E00 TUYẾN NGỪNG HOẠT ĐỘNG** hoặc tắt LED và đèn trong xe.<br>
      - Ví dụ:<br>
        - Tuyến A mở bến lúc 5:00, vào lúc 5:30 có xe của tuyến chạy trên đường nhưng không đón khách, đấy là xe di chuyển đến đầu bến để chuẩn bị vận hành.
@@ -29,13 +26,37 @@
   <br>
 
   - Xe buýt được phép xuất phát chênh lệch 1-3 phút so với lịch chạy cố định. Để tránh việc nhỡ xe, vui lòng chờ tại đầu bến tối thiểu 3-5 phút trước khi đến lịch chạy.
-  - Các xe bị <ins>âm giờ</ins> (*về bến muộn do ùn tắc giao thông*) có thể sẽ đón khách và đi luôn ngay sau khi trả khách tại bến để đảm bảo các lịch chạy kế tiếp được ổn định.
+  - Các xe bị <ins>âm giờ</ins> (*về bến muộn do ùn tắc giao thông*) có thể sẽ đón khách và đi luôn ngay sau khi trả khách tại bến để đảm bảo thời gian vận hành và các lịch chạy kế tiếp được ổn định.
 </details>
 <details>
   <summary><b>XE KHÔNG ĐÚNG SỐ HIỆU TUYẾN/MÀU NHẬN DIỆN</b></summary>
   <br>
 
-  - Trong một số trường hợp, tuyến thiếu xe vận hành nhưng không đảm bảo được xe dự phòng, đơn vị vận hành sẽ bổ sung xe từ tuyến khác. Xe bổ sung sẽ mang số hiệu tuyến khác hoặc màu nhận diện khác.
+Trong một số trường hợp, tuyến thiếu xe vận hành nhưng không đảm bảo được xe dự phòng, đơn vị vận hành sẽ bổ sung xe từ tuyến khác. Xe bổ sung sẽ mang số hiệu tuyến khác hoặc màu nhận diện khác.
+</details>
+<details>
+  <summary><b>XE ĐỔI LỘ TRÌNH</summary></b></summary>
+  <br>
+
+   - Ngắn hạn: Trong một số trường hợp nhất định, xe buýt sẽ đổi lộ trình tạm thời để đảm bảo thời gian vận hành và các lịch chạy kế tiếp được ổn định.
+     - Ví dụ:<br>
+       - Lộ trình bị gián đoạn tạm thời: Thiên tai, tai nạn, sửa chữa ngắn, tắc đường quá lâu,...
+       - Phục vụ các sự kiện lớn: Các giải chạy, lễ duyệt binh,...
+   - Dài hạn: Trong trường hợp xe buýt phải đổi lộ trình dài hạn, thông tin sẽ được cập nhật diện rộng trên mạng xã hội, trang thông tin của đơn vị quản lý và báo đài.
+     - Ví dụ:<br>
+       - Lộ trình bị gián đoạn dài ngày: **Đổi lộ trình tạm thời của các tuyến buýt trong thời gian bảo trì cầu Thăng Long** năm 2020<sup>[[link](https://nhandan.vn/dieu-chinh-16-tuyen-xe-buyt-co-lo-trinh-di-qua-cau-thang-long-post607367.html)]</sup>.
+</details>
+<details>
+  <summary><b>XE NGỪNG HOẠT ĐỘNG</summary></b></summary>
+  <br>
+
+   - Ngắn hạn: Măc dù các tuyến buýt trợ giá hoạt động liên tục không ngừng nghỉ, nhưng trong một số trường hợp nhất định, các tuyến sẽ phải ngừng hoạt động tạm thời trong thời gian ngắn, từ vài giờ cho đến vài ngày.
+     - Ví dụ:<br>
+       - Do thiên tai: **Ngừng hoạt động do ảnh hưởng của siêu bão Yagi** năm 2024<sup>[[link](https://thitruongtaichinh.kinhtedothi.vn/tai-chinh/tranh-sieu-bao-yagi-ha-noi-tam-dung-toan-bo-xe-buyt-va-tau-dien-126497.html)]</sup>.
+       - Phục vụ các sự kiện lớn: **Phục vụ tổng duyệt Lễ kỉ niệm 80 năm Quốc khánh** năm 2025<sup>[[link](https://laodong.vn/xe/ha-noi-dung-hoat-dong-18-tuyen-dieu-chinh-lo-trinh-91-tuyen-buyt-dip-29-1565496.ldo)]</sup>.
+   - Dài hạn: Trong trường hợp xe buýt phải ngừng hoạt động dài hạn, thông tin sẽ được cập nhật diện rộng trên mạng xã hội, trang thông tin của đơn vị quản lý và báo đài.
+     - Ví dụ:<br>
+       - [**Tuyến 43 tạm dừng hoạt động** năm 2025](https://hanoi.gov.vn/tin-so-nganh/tam-dung-hoat-dong-tuyen-buyt-so-43-tu-1-2-2025-4250106192843602.htm).
 </details>
 
 ## THẺ VÉ
@@ -66,9 +87,6 @@
        - Sai hình thức: Khách hàng xuất trình thẻ vé ảo/phi vật lý dưới dạng ảnh chụp lại thay vì qua ứng dụng chính thức.
        - Sai tuyến: Khách hàng sử dụng vé đơn tuyến nhưng sử dụng vé tháng trên tuyến khác không được đăng ký.
        - Vé giả: Khách hàng sử dụng vé tháng giả mạo để được miễn phí đi buýt.
-
-     - CAO NHÌ
-       - CAO BA
 </details>
 <details>
   <summary><b>VÉ MIỄN PHÍ</b></summary>
@@ -94,11 +112,15 @@
 - Địa chỉ: [Số 1 Kim Mã](https://maps.app.goo.gl/bqaWxjReobGUdZ2XA), phường Giảng Võ, TP Hà Nội
 ### ĐƠN VỊ QUẢN LÝ
 - **Tổng công ty vận tải Hà Nội** (*Transerco*): 19001296
-  - Tuyến: BRT 01, 01, 02, 03A, 03B, 04, 05, 06A, 06B, 06C, 06D, 06E, 07, 11/11<sup>CT</sup>, 12, 13, 15, 16, 17, 20A, 20A<sup>TC</sup>, 22A, 22B, 23, 24, 25, 26, 27, 28, 29, 30/30<sup>CT</sup>, 31, 32, 33, 34, 35A, 35B, 36/36<sup>CT</sup>, 38, 39, 40/40<sup>CT</sup>, 41, 47A, 47B, 48, 50, 52/52<sup>CT</sup>, 53A, 53B, 54, 55, 56A, 56B, 62, 63, 66, 67, 69, 84, 85, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101A, 101B, 102, 103A, 103B, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 119 | 68, 86
+  - Tuyến (buýt trợ giá): BRT 01, 01, 02, 03A, 03B, 04, 05, 06A, 06B, 06C, 06D, 06E, 07, 11/11<sup>CT</sup>, 12, 13, 15, 16, 17, 20A, 20A<sup>TC</sup>, 22A, 22B, 23, 24, 25, 26, 27, 28, 29, 30/30<sup>CT</sup>, 31, 32, 33, 34, 35A, 35B, 36/36<sup>CT</sup>, 38, 39, 40/40<sup>CT</sup>, 41, 47A, 47B, 48, 50, 52/52<sup>CT</sup>, 53A, 53B, 54, 55, 56A, 56B, 62, 63, 66, 67, 69, 84, 85, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101A, 101B, 102, 103A, 103B, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 119
+  - Tuyến (buýt không trợ giá): 68, 86
+  - Tuyến (City Tour): CITR01
 - **Bus Liên Ninh** (*CTCP vận tải và dịch vụ Liên Ninh*): 19001298, 19001296
   - Tuyến: 08A/08A<sup>CT</sup>, 08B/08B<sup>CT</sup>, 09A/09A<sup>CT</sup>, 09B/09B<sup>CT</sup>, 19, 21A, 21B, 37, 125
 - **Công ty Cổ phần xe khách Hà Nội**: 043-8271923
-  - Tuyến: 42, 49, 51, 122, 124, 146/146<sup>CT</sup> | 71, 202, 204 205, 209, 212, 215, 215B
+  - Tuyến (buýt trợ giá): 42, 49, 51, 122, 124, 146/146<sup>CT</sup>
+  - Tuyến (buýt không trợ giá): 71, 202, 204 205, 209, 212, 215, 215B
+  - Tuyến (City Tour): CITR03
 - **Công ty Bảo Yến** (*Công ty TNHH Du lịch dịch vụ xây dựng Bảo Yến*): 024-71077777
   - Tuyến: 57, 58, 59, 60A, 60B, 61, 65, 142, 143, 144, 157, 158, 159, 160, 161, 162, 163
 - **Công ty Liên doanh vận chuyển quốc tế Hải Vân**: 19006763
@@ -108,9 +130,13 @@
 - **Công ty Cổ phần ô tô vận tải Hà Tây**: 024-33510140
   - Tuyến: 72
 - **Công ty cổ phần ô tô khách Hà Tây**: 0362986298
-  - Tuyến: 118, 126 | 70A, 70B, 213 (HB05)
+  - Tuyến (buýt trợ giá): 118, 126
+  - Tuyến (buýt không trợ giá): 70A, 70B, 213 (HB05)
 - **VinBus** (*Công ty TNHH dịch vụ vận tải sinh thái Vinbus*): 1900866663
-  - Tuyến: E01, E02, E03, E04, E05, E06, E07, E08, E09, E10, E11, 43 | NIA, OCP1, OCP2, OCT1, OCT2, SMC1
+  - Tuyến (buýt trợ giá): E01, E02, E03, E04, E05, E06, E07, E08, E09, E10, E11, 43
+  - Nội khu: NIA, OCP1, OCP2, OCT1, OCT2, SMC1
+- **CTCP Ngắm cảnh Việt Nam**: 1900558865
+  - Tuyến: CITR02
 - **CT TNHH Vận tải và Du lịch Bảo Châu**: 0981226638
   - Tuyến: 78
 - **CTCP Thương mại và Du lịch Hà Lan**: 0989759759
