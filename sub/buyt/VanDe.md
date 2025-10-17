@@ -1,5 +1,5 @@
 # CÁC VẤN ĐỀ KHI SỬ DỤNG DỊCH VỤ VTHKCC BẰNG XE BUÝT
-## XE VẬN HÀNH
+## 🚌 XE VẬN HÀNH
 <details>
   <summary><b>ĐỢI XE QUÁ LÂU</b></summary>
   <br>
@@ -59,7 +59,7 @@ Trong một số trường hợp, tuyến thiếu xe vận hành nhưng không �
        - [**Tuyến 43 tạm dừng hoạt động** năm 2025](https://hanoi.gov.vn/tin-so-nganh/tam-dung-hoat-dong-tuyen-buyt-so-43-tu-1-2-2025-4250106192843602.htm).
 </details>
 
-## THẺ VÉ
+## 💳 THẺ VÉ
 <details>
   <summary><b>VÉ LƯỢT</b></summary>
   <br>
@@ -107,7 +107,7 @@ Trong một số trường hợp, tuyến thiếu xe vận hành nhưng không �
   - NVPV có quyền buộc khách hàng mua vé lượt sau khi phát hiện các hành vi gian lận hoặc vi phạm quy định sử dụng vé nêu trên.
 </details>
 
-## PHẢN ÁNH CHẤT LƯỢNG DỊCH VỤ
+## 📞 PHẢN ÁNH CHẤT LƯỢNG DỊCH VỤ
 ### TT Quản lý và Điều hành giao thông TP Hà Nội
 - Địa chỉ: [Số 1 Kim Mã](https://maps.app.goo.gl/bqaWxjReobGUdZ2XA), phường Giảng Võ, TP Hà Nội
 - Hotline: 0798391998
