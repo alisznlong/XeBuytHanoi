@@ -118,7 +118,7 @@ Trong một số trường hợp, tuyến thiếu xe vận hành nhưng không �
   - Tuyến (City Tour): CITR01
 - **Bus Liên Ninh** (*CTCP vận tải và dịch vụ Liên Ninh*): 19001298, 19001296
   - Tuyến: 08A/08A<sup>CT</sup>, 08B/08B<sup>CT</sup>, 09A/09A<sup>CT</sup>, 09B/09B<sup>CT</sup>, 19, 21A, 21B, 37, 125
-- **Công ty Cổ phần xe khách Hà Nội**: 043-8271923
+- **CTCP xe khách Hà Nội**: 043-8271923
   - Tuyến (buýt trợ giá): 42, 49, 51, 122, 124, 146/146<sup>CT</sup>
   - Tuyến (buýt không trợ giá): 71, 202, 204 205, 209, 212, 215, 215B
   - Tuyến (City Tour): CITR03
@@ -126,11 +126,11 @@ Trong một số trường hợp, tuyến thiếu xe vận hành nhưng không �
   - Tuyến: 57, 58, 59, 60A, 60B, 61, 65, 142, 143, 144, 157, 158, 159, 160, 161, 162, 163
 - **Công ty Liên doanh vận chuyển quốc tế Hải Vân**: 19006763
   - Tuyến: 64, 74
-- **Đông Anh Bus** (*Công ty Cổ phần vận tải Thương mại và Du lịch Đông Anh*): 043-8832520
+- **Đông Anh Bus** (*CTCP vận tải Thương mại và Du lịch Đông Anh*): 043-8832520
   - Tuyến: 46, 123
-- **Công ty Cổ phần ô tô vận tải Hà Tây**: 024-33510140
+- **CTCP ô tô vận tải Hà Tây**: 024-33510140
   - Tuyến: 72
-- **Công ty cổ phần ô tô khách Hà Tây**: 0362986298
+- **CTCP ô tô khách Hà Tây**: 0362986298
   - Tuyến (buýt trợ giá): 118, 126
   - Tuyến (buýt không trợ giá): 70A, 70B, 213 (HB05)
 - **VinBus** (*Công ty TNHH dịch vụ vận tải sinh thái Vinbus*): 1900866663
@@ -146,7 +146,7 @@ Trong một số trường hợp, tuyến thiếu xe vận hành nhưng không �
   - Tuyến: VP01
 - **HTX Vận tải Sông Đà**: 0946005999
   - Tuyến: HB05 (213), HB22
-- **CTCP Vận tải hành khách Hải Hưng**: 032-03852215
+- **CTCP VTHK Hải Hưng**: 032-03852215
   - Tuyến: 202, 208
 - **Công ty VTHK Bắc Hà**: 020-43855207
   - Tuyến: 203
