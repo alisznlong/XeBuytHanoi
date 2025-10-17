@@ -1,4 +1,4 @@
-# CÁC VẤN ĐỀ KHI SỬ DỤNG DỊCH VỤ TẬN TẢI HÀNH KHÁCH CÔNG CỘNG BẰNG XE BUÝT
+# CÁC VẤN ĐỀ KHI SỬ DỤNG DỊCH VỤ VTHKCC BẰNG XE BUÝT
 ## XE VẬN HÀNH
 <details>
   <summary><b>ĐỢI XE QUÁ LÂU</b></summary>
@@ -110,6 +110,7 @@ Trong một số trường hợp, tuyến thiếu xe vận hành nhưng không �
 ## PHẢN ÁNH CHẤT LƯỢNG DỊCH VỤ
 ### TT Quản lý và Điều hành giao thông TP Hà Nội
 - Địa chỉ: [Số 1 Kim Mã](https://maps.app.goo.gl/bqaWxjReobGUdZ2XA), phường Giảng Võ, TP Hà Nội
+- Hotline: 0798391998
 ### ĐƠN VỊ QUẢN LÝ
 - **Tổng công ty vận tải Hà Nội** (*Transerco*): 19001296
   - Tuyến (buýt trợ giá): BRT 01, 01, 02, 03A, 03B, 04, 05, 06A, 06B, 06C, 06D, 06E, 07, 11/11<sup>CT</sup>, 12, 13, 15, 16, 17, 20A, 20A<sup>TC</sup>, 22A, 22B, 23, 24, 25, 26, 27, 28, 29, 30/30<sup>CT</sup>, 31, 32, 33, 34, 35A, 35B, 36/36<sup>CT</sup>, 38, 39, 40/40<sup>CT</sup>, 41, 47A, 47B, 48, 50, 52/52<sup>CT</sup>, 53A, 53B, 54, 55, 56A, 56B, 62, 63, 66, 67, 69, 84, 85, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101A, 101B, 102, 103A, 103B, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 119
