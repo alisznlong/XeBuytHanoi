@@ -118,7 +118,7 @@ Trong một số trường hợp, tuyến thiếu xe vận hành nhưng không �
   - Tuyến (City Tour): CITR01
   - **Bus Liên Ninh** (*CTCP vận tải và dịch vụ Liên Ninh*): 19001298, 19001296
     - Tuyến: 08A/08A<sup>CT</sup>, 08B/08B<sup>CT</sup>, 09A/09A<sup>CT</sup>, 09B/09B<sup>CT</sup>, 19, 21A, 21B, 37, 125
-- **CTCP xe khách Hà Nội**: 043-8271923
+- **CTCP xe khách Hà Nội**: 19001165 (nhánh 1 - tuyến City Tour | nhánh 2 - tuyến nội đô | nhánh 3 - tuyến liên tỉnh)
   - Tuyến (buýt trợ giá): 42, 49, 51, 122, 124, 146/146<sup>CT</sup>
   - Tuyến (buýt không trợ giá): 71, 202, 204, 205, 209, 212, 215, 215B
   - Tuyến (City Tour): CITR03
