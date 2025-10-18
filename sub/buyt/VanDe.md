@@ -32,7 +32,7 @@ Vào các khung giờ cao điểm, do ùn tắc giao thông, việc lưu thông 
   <summary><b>XE KHÔNG ĐÚNG SỐ HIỆU TUYẾN/MÀU NHẬN DIỆN</b></summary>
   <br>
 
-Trong một số trường hợp, tuyến thiếu xe vận hành nhưng không đảm bảo được xe dự phòng, đơn vị vận hành sẽ bổ sung xe từ tuyến khác. Xe bổ sung sẽ mang số hiệu tuyến khác hoặc màu nhận diện khác.
+Trong một số trường hợp, tuyến thiếu xe vận hành nhưng không đảm bảo được xe dự phòng, đơn vị vận hành sẽ bổ sung xe từ tuyến khác. Xe bổ sung có thể mang số hiệu tuyến khác hoặc màu nhận diện khác.
 </details>
 <details>
   <summary><b>XE ĐỔI LỘ TRÌNH</summary></b></summary>
