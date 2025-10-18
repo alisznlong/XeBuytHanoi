@@ -15,7 +15,7 @@
 **〇**: như bình thường (các tuyến có thời gian chạy cuối tuần như ngày thường)<br>
 **↔**:
 > - Các tuyến có lộ trình vòng kín sẽ hiển thị đầu điểm là **[A ↔ B ↔ C]**, **[D ↔ E ↔ A]**
-> - Các tuyến chạy lộ trình dài hoặc có trùng điểm đầu cuối với các tuyến khác sẽ được bổ sung chi tiết lộ trình bằng kí tự **↔**, ví dụ  (87/88)
+> - Các tuyến chạy lộ trình dài hoặc có trùng điểm đầu cuối với các tuyến khác sẽ được bổ sung chi tiết lộ trình bằng kí tự **↔**, ví dụ  (E05/E07)
 </details>
 
 ### ⠀⠀● [CÁC TUYẾN BUÝT CÓ TRỢ GIÁ](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/buyt/BuytTroGia.md)
