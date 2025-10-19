@@ -7,7 +7,21 @@
 - Website: [Transerco](https://transerco.com.vn)
 - Tuyến trợ giá:
   - Hotline: 19001296
-  - Tuyến: BRT 01, 01, 02, 03A, 03B, 04, 05, 06A, 06B, 06C, 06D, 06E, 11/11<sup>CT</sup>, 12, 13, 15, 16, 17, 20A, 20A<sup>TC</sup>, 22A, 22B, 23, 24, 26, 28, 29, 30/30<sup>CT</sup>, 31, 32, 33, 36/36<sup>CT</sup>, 38, 39, 40/40<sup>CT</sup>, 50, 52/52<sup>CT</sup>, 53A, 53B, 54, 62, 63, 66, 67, 84, 85, 87, 88, 89, 90, 91, 92, 93, 95, 96, 97, 98, 99, 100, 101A, 101B, 102, 103A, 103B, 104, 105, 106, 107, 108, 110, 111, 112, 113, 114, 115, 116, 117, 119
+  - Xí nghiệp trực thuộc:<br>
+    - **Xí nghiệp bus Hà Nội**
+      - Tuyến: 01, 03A, 03B, 11/11<sup>CT</sup>, 23, 31, 36/36<sup>CT</sup>, 40/40<sup>CT</sup>, 52/52<sup>CT</sup>, 100, 108
+    - **Xí nghiệp bus 10-10**
+      - Tuyến: 13, 20A, 20A<sup>TC</sup>, 20B, 28, 29, 50, 53A, 53B, 67, 92, 96, 97, 110, 111
+    - **Xí nghiệp bus Cầu Bươu**
+      - Tuyến: 06D, 06E, 16, 22A, 22B, 32, 84, 85, 103A, 103B, 117, 119
+    - **Xí nghiệp bus nhanh BRT Hà Nội**
+      - Tuyến: BRT 01, 02, 66, 89, 91, 102, 105, 107, 114, 116
+    - **Xí nghiệp bus xe khách Nam Hà Nội**
+      - Tuyến: 04, 05, 24, 26, 30/30<sup>CT</sup>, 38, 39, 87, 88, 98, 99, 106
+    - **Xí nghiệp bus Yên Viên**
+      - Tuyến: 15, 17, 54, 63, 90, 93, 95, 112
+    - **Trung tâm Tân Đạt**
+      - Tuyến: 06A, 06B, 06C, 12, 33, 62, 101A, 101B, 104, 113, 115
 - Tuyến Bus Express Nội Bài (không trợ giá): 
   - Website:  [Bus Express Nội Bài](https://busnoibai.com/vi)
   - Hotline: 0334158668
