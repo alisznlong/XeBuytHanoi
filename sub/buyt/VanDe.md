@@ -120,7 +120,7 @@ Trong một số trường hợp, tuyến thiếu xe vận hành nhưng không �
     - Tuyến: 08A/08A<sup>CT</sup>, 08B/08B<sup>CT</sup>, 09A/09A<sup>CT</sup>, 09B/09B<sup>CT</sup>, 19, 21A, 21B, 37, 125
 - **CTCP xe khách Hà Nội**: 19001165 (<ins>**nhánh 1**</ins> - tuyến City Tour | <ins>**nhánh 2**</ins> - tuyến nội đô | <ins>**nhánh 3**</ins> - tuyến liên tỉnh)
   - Tuyến (buýt trợ giá): 42, 49, 51, 122, 124, 146/146<sup>CT</sup>
-  - Tuyến (buýt không trợ giá): 71, 202, 204, 205, 209, 212, 215, 215B
+  - Tuyến (buýt không trợ giá): 71 (nội đô), 202, 204, 205, 209, 212, 215, 215B
   - Tuyến (City Tour): CITR03
 - **Công ty Bảo Yến** (*Công ty TNHH Du lịch dịch vụ xây dựng Bảo Yến*): 024-71077777
   - Tuyến: 57, 58, 59, 60A, 60B, 61, 65, 142, 143, 144, 157, 158, 159, 160, 161, 162, 163
