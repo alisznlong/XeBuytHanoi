@@ -1,6 +1,6 @@
 # CÁC TUYẾN BUÝT CÓ TRỢ GIÁ
 
-> Tuyến VP01 là tuyến có trợ giá của tỉnh Vĩnh Phúc nên không thể sử dụng vé tháng/thẻ miễn phí như dịch vụ VTHKCC bằng xe buýt tại Hà Nội
+> Tuyến VP01 không thuộc trợ giá của UBND TP Hà Nội, nên không thể sử dụng thẻ miễn phí và vé tháng liên tuyến trên tuyến
 
 |Tuyến<br>—<br><sup>Màu nhận diện</sup>|Đầu A|Đầu B|Tần suất<br><sup>(*phút*)</sup>|Giá vé|Thời gian hoạt động|TGHĐ<br><sup>(*Cuối tuần*)</sup>|Đơn vị quản lí
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
