@@ -4,7 +4,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |68<br>$${\color{orange}■ }$$|[Hà Đông](https://maps.app.goo.gl/XsvG3r63tVS4zUpY9)<br><sup>(*TTTM Melinh Plaza Hà Đông*)</sup><br>↔ Nhà ga T1 ↔ Nhà ga T2|[Sân bay Nội Bài](https://maps.app.goo.gl/EsJ4R6pEomQzpWYR9)<br><sup>(*Sảnh Nhà ga T1*)</sup> |40 - 45 -50 - 55|50.000 ₫|**Hà Đông**: 5:45 - 20:05<br>**Sân bay Nội Bài**: 7:35 - 22:15|**〇**|$\small{\textsf{XN bus nhanh}}$<br>$\small{\textsf{BRT Hà Nội}}$<br>(Transerco)
 |86<br>86<sup>CT</sup><br>$${\color{orange}■ }$$|[Ga Hà Nội](https://maps.app.goo.gl/rg4tp3s9wzkBPvnL7) ↔ Nhà ga T1 ↔ Nhà ga T2|[Sân bay Nội Bài](https://maps.app.goo.gl/JmF4qo2HASpqbnf59)<br><sup>(*Nhà ga T2*)</sup>|30 - 40 - 45|45.000 ₫|**<sup><86: T2 - 16:30 T6></sup>**<br>**Ga Hà Nội**: 5:15 - 20:25<br>**Sân bay Nội Bài**: 6:45 - 22:10|**<sup><86<sup>CT</sup>: T7 - CN></sup>**<br>**Ga Hà Nội**: 5:30 - 20:30<br>**Sân bay Nội Bài**: 7:00 - 22:00|$\small{\textsf{XN bus nhanh}}$<br>$\small{\textsf{BRT Hà Nội}}$<br>(Transerco)
-## Tuyến buýt không trợ giá khác trong địa phận thành phố
+## Tuyến buýt không trợ giá khác nội đô
 |Tuyến<br>—<br><sup>Màu nhận diện</sup>|Đầu A|Đầu B|Tần suất<br><sup>(*phút*)</sup>|Giá vé|Thời gian hoạt động|Đơn vị quản lý
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[**70A**](https://wikiroutes.info/en/hanoi?routes=79467)<br>$${\color{yellow}■ \color{#ff000d}■}$$|[BX Mỹ Đình](https://maps.app.goo.gl/YXchixi7wKaWwNkS7)|[Trung Hà](https://maps.app.goo.gl/tHx42JSyBxSo8XqA8)<br><sup>(*Ba Vì*)|20 - 30|15.000 ₫ - 20.000 ₫<br><sup>(*chặng*)</sup><br>35.000 ₫<br><sup>(*tuyến*)</sup>|5:00 -  17:00|$\small{\textsf{CTCP VT}}$<br>$\small{\textsf{ô tô khách}}$<br>$\small{\textsf{Hà Tây}}$
