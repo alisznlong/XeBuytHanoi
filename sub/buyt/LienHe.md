@@ -61,7 +61,7 @@
 - Tuyến: 57, 58, 59, 60A, 60B, 61, 65, 142, 143, 144, 157, 158, 159, 160, 161, 162, 163
 ### Công ty Liên doanh vận chuyển quốc tế Hải Vân
 - Website: [Hải Vân](http://haivan.com)
-- Hotline: ?
+- Hotline: 0906007777
 - Tuyến: 64, 74
 ### Đông Anh Bus (*CTCP vận tải Thương mại và Du lịch Đông Anh*)
 - Hotline: 043-8832520
