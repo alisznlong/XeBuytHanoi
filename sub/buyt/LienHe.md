@@ -51,7 +51,7 @@
   - Tuyến (không trợ giá): 71
 - Tuyến liên tỉnh: 
   - Hotline: 19001165 - nhánh 3
-  - Tuyến: 202, 204, 205, 209, 212, 215, 215B
+  - Tuyến: 202, 204, 205, 212, 215, 215B
 - Tuyến City Tour: 
   - Hotline: 19001165 - nhánh 1
   - Tuyến: CITR03
