@@ -1,18 +1,18 @@
 # CÁC TUYẾN BUÝT KHÔNG TRỢ GIÁ
 ## Tuyến buýt nhanh đi sân bay Nội Bài
-|Tuyến<br>—<br><sup>Màu nhận diện</sup>|Đầu A|Đầu B|Tần suất<br><sup>(*phút*)</sup>|Giá vé|Thời gian hoạt động|TGHĐ<br><sup>(*Cuối tuần*)|Đơn vị quản lí
+|Tuyến<br>—<br><sup>Màu nhận diện</sup>|Đầu A|Đầu B|Tần suất<br><sup>(*phút*)</sup>|Giá vé|Thời gian hoạt động|TGHĐ<br><sup>(*Cuối tuần*)|Đơn vị quản lý
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |68<br>$${\color{orange}■ }$$|[Hà Đông](https://maps.app.goo.gl/XsvG3r63tVS4zUpY9)<br>(*TTTM Melinh Plaza Hà Đông*) ↔ Nhà ga T1 ↔ Nhà ga T2|[Sân bay Nội Bài](https://maps.app.goo.gl/EsJ4R6pEomQzpWYR9)<br>(*Sảnh Nhà ga T1*)|40 - 45 -50 - 55|50.000 ₫|**Hà Đông**: 5:45 - 20:05<br>**Sân bay Nội Bài**: 7:35 - 22:15|**〇**|XN bus nhanh Hà Nội **(*Transerco*)**
 |86<br>86<sup>CT</sup><br>$${\color{orange}■ }$$|[Ga Hà Nội](https://maps.app.goo.gl/rg4tp3s9wzkBPvnL7) ↔ Nhà ga T1 ↔ Nhà ga T2|[Sân bay Nội Bài](https://maps.app.goo.gl/JmF4qo2HASpqbnf59)<br>(*Nhà ga T2*)|30 - 40 - 45|45.000 ₫|**<sup><86: T2 - 16:30 T6></sup>**<br>**Ga Hà Nội**: 5:15 - 20:25<br>**Sân bay Nội Bài**: 6:45 - 22:10|**<sup><86<sup>CT</sup>: T7 - CN></sup>**<br>**Ga Hà Nội**: 5:30 - 20:30<br>**Sân bay Nội Bài**: 7:00 - 22:00|XN bus nhanh Hà Nội **(*Transerco*)**
 ## Tuyến buýt không trợ giá khác trong địa phận thành phố
-|Tuyến<br>—<br><sup>Màu nhận diện</sup>|Đầu A|Đầu B|Tần suất<br><sup>(*phút*)</sup>|Giá vé|Thời gian hoạt động|Đơn vị quản lí
+|Tuyến<br>—<br><sup>Màu nhận diện</sup>|Đầu A|Đầu B|Tần suất<br><sup>(*phút*)</sup>|Giá vé|Thời gian hoạt động|Đơn vị quản lý
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[**70A**](https://wikiroutes.info/en/hanoi?routes=79467)<br>$${\color{yellow}■ \color{#ff000d}■}$$|[BX Mỹ Đình](https://maps.app.goo.gl/YXchixi7wKaWwNkS7)|[Trung Hà](https://maps.app.goo.gl/tHx42JSyBxSo8XqA8)<br>(*Ba Vì*)|20 - 30|15.000 ₫ - 20.000 ₫<br>(*chặng*)<br>35.000 ₫<br>(*tuyến*)|5:00 -  17:00|**CTCP Vận tải ô tô khách Hà Tây**
 |[**70B**](https://wikiroutes.info/en/hanoi?routes=79466)<br>$${\color{yellow}■ \color{#ff000d}■}$$|[BX Mỹ Đình](https://maps.app.goo.gl/YXchixi7wKaWwNkS7)|[Phú Cường](https://maps.app.goo.gl/X5dXtqgiau4sc8ZV8)<br>(*Ba Vì*)|20 - 30|15.000 ₫ - 20.000 ₫<br>(*chặng*)<br>35.000 ₫<br>(*tuyến*)|5:00 - 17:00|**CTCP Vận tải ô tô khách Hà Tây**
 |[**71**](https://wikiroutes.info/en/hanoi?routes=107040)<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[CV Nghĩa Đô](https://maps.app.goo.gl/4U4MfTau4RebQPJY8)|[ĐH Quốc gia Hà Nội](https://maps.app.goo.gl/dJSqVZVdwfFcAq7PA)<br>(*Giảng đường QGHN04A Hòa Lạc*)|15 - 25 - 30 - 45|10.000 ₫ - 20.000 ₫<br>(*chặng*)<br>35.000 ₫<br>(*tuyến*)|**CV Nghĩa Đô**: 5:20 - 18:30<br>**ĐH Quốc gia Hà Nội**: 6:30 - 18:30|**CTCP Xe khách Hà Nội**
 |[**78**](https://wikiroutes.info/en/hanoi?routes=79396)<br>$${\color{black}■ \color{orange}■}$$<br>$${\color{#111184}■ \color{#90D5FF}■}$$|[BX Mỹ Đình](https://maps.app.goo.gl/YXchixi7wKaWwNkS7)|[BX Tế Tiêu](https://maps.app.goo.gl/5UfXWdqdGqCMZSw16*)|50 - 60 - 90|10.000 ₫ - 25.000 ₫ - 30.000 ₫<br>(*chặng*)<br>35.000 ₫<br>(*tuyến*)|**BX Mỹ Đình**: 5:45 - 18:30<br>**BX Tế Tiêu**: 4:30 - 18:00|**CT TNHH Vận tải và Du lịch Bảo Châu**
 ## Tuyến buýt kế cận/liên tỉnh
-|Tuyến<br>—<br><sup>Màu nhận diện</sup>|Đầu A|Đầu B|Tần suất<br><sup>(*phút*)</sup>|Giá vé|Thời gian hoạt động|Đơn vị quản lí
+|Tuyến<br>—<br><sup>Màu nhận diện</sup>|Đầu A|Đầu B|Tần suất<br><sup>(*phút*)</sup>|Giá vé|Thời gian hoạt động|Đơn vị quản lý
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |[**01**](https://wikiroutes.info/en/thai-nguyen?routes=78537)<br>(*Thái Nguyên*)<br>$${\color{#90EE90}■ \color{#023020}■}$$|[Tân Long](https://maps.app.goo.gl/hCQvQC11856hrmGR8) ↔ Phổ Yên|[Phố Nỉ](https://maps.app.goo.gl/iJ6BmmYgC7ot5QXe6*)<br>(*TTTM Bình An*)|15|15.000 ₫ - 18.000 ₫ - 20.000 ₫ - 23.000 ₫ - 25.000 ₫ - 28.000 ₫ - 30.000 ₫ - 32.000 ₫ - 35.000 ₫<br>(*chặng*)<br>40.000 ₫<br>(*tuyến*)|05:30 - 19:00|**CTCP Thương mại và Du lịch Hà Lan**
 |[**HB22**](https://wikiroutes.info/en/hanoi?routes=151154)<br>$${\color{#ffffff}■ \color{yellow}■ \color{#90D5FF}■}$$|[Bãi Chạo](https://maps.app.goo.gl/BykYVhsdkv7FT1sm8) ↔ Kim Bôi|Chúc Sơn ↔ [BX Yên Nghĩa](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)|40 - 50 - 60|30.000 ₫ - 35.000 ₫ - 40.000 ₫<br>(*chặng*)<br>45.000 ₫<br>(*tuyến*)|**Bãi Chạo**: 4:30 - 17:00<br>**BX Yên Nghĩa**: 5:40 - 18:00|**HTX Vận tải Sông Đà**
