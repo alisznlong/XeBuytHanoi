@@ -23,12 +23,15 @@
 ### ⠀⠀● [CÁC TUYẾN BUÝT NỘI KHU/NỘI BỘ](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/buyt/BuytNoiKhu.md)
 ### ⠀⠀● [CÁC TUYẾN BUÝT DU LỊCH](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/buyt/BuytDuLich.md)
 
+## 🚌 [ỨNG DỤNG THEO DÕI LỘ TRÌNH XE BUÝT](link)
+
 ## 💳 THẺ VÉ XE BUÝT
 ### ⠀⠀● [VÉ THÁNG XE BUÝT](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/theve/VeThang.md)
 ### ⠀⠀● [THẺ ĐI XE BUÝT MIỄN PHÍ](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/theve/TheMienPhi.md)
 
-## 🚌 [CÁC VẤN ĐỀ KHI SỬ DỤNG DỊCH VỤ VTHKCC BẰNG XE BUÝT](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/buyt/VanDe.md)
-## 📞 [PHẢN ÁNH CHẤT LƯỢNG DỊCH VỤ XE BUÝT](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/buyt/LienHe.md)
+## 🚌 SỬ DỤNG DỊCH VỤ VTHKCC BẰNG XE BUÝT
+### ⠀⠀● [CÁC VẤN ĐỀ PHÁT SINH](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/buyt/VanDe.md)
+### ⠀⠀● [PHẢN ÁNH CHẤT LƯỢNG DỊCH VỤ XE BUÝT](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/buyt/LienHe.md)
 
 ## 🚂 [MỞ RỘNG] TUYẾN TÀU ĐIỆN ĐÔ THỊ
 ### ⠀⠀● [DANH SÁCH TUYẾN](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/taudien/DanhSach.md)
