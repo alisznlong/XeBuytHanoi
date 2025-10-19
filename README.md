@@ -28,6 +28,7 @@
 ### ⠀⠀● [THẺ ĐI XE BUÝT MIỄN PHÍ](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/theve/TheMienPhi.md)
 
 ## 🚌 [CÁC VẤN ĐỀ KHI SỬ DỤNG DỊCH VỤ VTHKCC BẰNG XE BUÝT](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/buyt/VanDe.md)
+## 📞 [PHẢN ÁNH CHẤT LƯỢNG DỊCH VỤ XE BUÝT](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/buyt/LienHe.md)
 
 ## 🚂 [MỞ RỘNG] TUYẾN TÀU ĐIỆN ĐÔ THỊ
 ### ⠀⠀● [DANH SÁCH TUYẾN](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/taudien/DanhSach.md)
