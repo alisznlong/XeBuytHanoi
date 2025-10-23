@@ -2,7 +2,7 @@
 ## Tuyến buýt nhanh đi sân bay Nội Bài
 |Tuyến<br>—<br><sup>Màu nhận diện</sup>|Đầu A|Đầu B|Tần suất<br><sup>(*phút*)</sup>|Giá vé|Thời gian hoạt động|TGHĐ<br><sup>(*Cuối tuần*)|Đơn vị quản lý
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|68<br>$${\color{orange}■ }$$|[Hà Đông](https://maps.app.goo.gl/XsvG3r63tVS4zUpY9)<br><sup>(*TTTM Melinh Plaza Hà Đông*)</sup><br>↔ Nhà ga T1 ↔ Nhà ga T2|[Sân bay Nội Bài](https://maps.app.goo.gl/EsJ4R6pEomQzpWYR9)<br><sup>(*Sảnh Nhà ga T1*)</sup> |40 - 45 -50 - 55|50.000 ₫|**Hà Đông**: 5:45 - 20:05<br>**Sân bay Nội Bài**: 7:35 - 22:15|**〇**|$\small{\textsf{XN bus nhanh}}$<br>$\small{\textsf{BRT Hà Nội}}$<br>(Transerco)
+|68<br>$${\color{orange}■ }$$|[Hà Đông](https://maps.app.goo.gl/LhbhXT6iujiVLe2E9)<br><sup>(*BX Yên Nghĩa*)</sup><br>↔ Nhà ga T1 ↔ Nhà ga T2|[Sân bay Nội Bài](https://maps.app.goo.gl/EsJ4R6pEomQzpWYR9)<br><sup>(*Nhà ga T1*)</sup> |40 - 45 - 50 - 55|50.000 ₫|**Hà Đông**: 5:30 - 20:45<br>**Sân bay Nội Bài**: 7:15 - 22:45|**〇**|$\small{\textsf{XN bus nhanh}}$<br>$\small{\textsf{BRT Hà Nội}}$<br>(Transerco)
 |86<br>86<sup>CT</sup><br>$${\color{orange}■ }$$|[Ga Hà Nội](https://maps.app.goo.gl/rg4tp3s9wzkBPvnL7) ↔ Nhà ga T1 ↔ Nhà ga T2|[Sân bay Nội Bài](https://maps.app.goo.gl/JmF4qo2HASpqbnf59)<br><sup>(*Nhà ga T2*)</sup>|30 - 40 - 45|45.000 ₫|**<sup><86: T2 - 16:30 T6></sup>**<br>**Ga Hà Nội**: 5:15 - 20:25<br>**Sân bay Nội Bài**: 6:45 - 22:10|**<sup><86<sup>CT</sup>: T7 - CN></sup>**<br>**Ga Hà Nội**: 5:30 - 20:30<br>**Sân bay Nội Bài**: 7:00 - 22:00|$\small{\textsf{XN bus nhanh}}$<br>$\small{\textsf{BRT Hà Nội}}$<br>(Transerco)
 ## Tuyến buýt không trợ giá nội đô
 |Tuyến<br>—<br><sup>Màu nhận diện</sup>|Đầu A|Đầu B|Tần suất<br><sup>(*phút*)</sup>|Giá vé|Thời gian hoạt động|Đơn vị quản lý
