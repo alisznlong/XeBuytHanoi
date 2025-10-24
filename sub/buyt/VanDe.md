@@ -1,4 +1,4 @@
-# CÁC VẤN ĐỀ KHI SỬ DỤNG DỊCH VỤ VTHKCC BẰNG XE BUÝT
+# CÂU HỎI THƯỜNG GẶP
 ## 🚌 XE VẬN HÀNH
 <details>
   <summary><b>ĐỢI XE QUÁ LÂU</b></summary>
@@ -105,4 +105,8 @@ Trong một số trường hợp, tuyến thiếu xe vận hành nhưng không �
   <summary><b>BUỘC MUA VÉ LƯỢT KHI PHÁT HIỆN VI PHẠM</b></summary>
 
   - NVPV có quyền buộc khách hàng mua vé lượt sau khi phát hiện các hành vi gian lận hoặc vi phạm quy định sử dụng vé nêu trên.
+</details>
+<details>
+  <summary><b>CÁC TUYẾN ÁP DỤNG VÉ THÁNG/THẺ MIỄN PHÍ</b></summary>
+  Các tuyến buýt trợ giá trong thành phố (ngoại trừ VP01) đều hỗ trợ sử dụng vé tháng/thẻ miễn phí
 </details>
