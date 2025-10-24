@@ -18,7 +18,7 @@ Vào các khung giờ cao điểm, do ùn tắc giao thông, việc lưu thông 
    - <ins>**Xe hỏng/gặp sự cố**</ins>: Trong trường hợp xe hỏng/gặp sự cố nặng dẫn tới việc không thể tiếp tục vận hành, xe sẽ ngừng đón khách và di chuyển về khu vực sửa chữa của đơn vị quản lý.<br>
    - <ins>**Quá thời gian hoạt động**</ins>: Quá 10 phút kể từ thời điểm đóng bến (*lượt cuối của tuyến*), xe vận hành sẽ không còn được trợ giá. Trong trường hợp xe lượt cuối hoặc cận cuối về bến quá 10 phút của thời gian đóng bến thì xe đó sẽ ngừng đón khách.
      - Ví dụ:<br>
-       - Tuyến 22A là một trong những tuyến bị <ins>âm giờ</ins> (*về bến muộn do ùn tắc giao thông*) khá nặng, do đó tuyến thường xuyên bỏ lượt cuối và cận cuối, đặc biệt là lượt từ đầu (B) KĐT Kiến Hưng
+       - Tuyến 22A là một trong những tuyến bị <ins>âm giờ</ins> (*về bến muộn do ùn tắc giao thông*) khá nặng, do đó tuyến thường xuyên bỏ lượt cuối và cận cuối, đặc biệt là lượt từ đầu (B) KĐT Kiến Hưng (*thông tin đã lỗi thời*)
    - <ins>**Xe đang được sử dụng với mục đích khác**</ins>: Thực hiện nhiệm vụ thành phố giao, chở cán bộ công nhân viên của đơn vị quản lý,... Các xe đang được sử dụng với mục đích khác thường được tắt LED biểu thị để tránh gây nhầm lẫn cho khách hàng.
 </details>
 <details>
@@ -108,5 +108,5 @@ Trong một số trường hợp, tuyến thiếu xe vận hành nhưng không �
 </details>
 <details>
   <summary><b>CÁC TUYẾN ÁP DỤNG VÉ THÁNG/THẺ MIỄN PHÍ</b></summary>
-  Các tuyến buýt trợ giá trong thành phố (ngoại trừ VP01) đều hỗ trợ sử dụng vé tháng/thẻ miễn phí
+  Các [tuyến buýt trợ giá](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/buyt/BuytTroGia.md) trong thành phố (ngoại trừ VP01) đều hỗ trợ sử dụng vé tháng/thẻ miễn phí
 </details>
