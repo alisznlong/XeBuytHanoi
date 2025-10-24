@@ -64,5 +64,5 @@ Trong một số trường hợp, tuyến thiếu xe vận hành nhưng không �
 <details>
   <summary><b>CÁC TUYẾN ÁP DỤNG VÉ THÁNG/THẺ MIỄN PHÍ</b></summary>
   
-  Các [tuyến buýt trợ giá](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/buyt/BuytTroGia.md) trong thành phố (ngoại trừ VP01) đều hỗ trợ sử dụng vé tháng/thẻ miễn phí.
+  Các [tuyến buýt trợ giá](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/buyt/BuytTroGia.md) trong thành phố (ngoại trừ <ins>**VP01**</ins>) đều hỗ trợ sử dụng vé tháng/thẻ miễn phí.
 </details>
