@@ -55,7 +55,12 @@
 - Tuyến City Tour: 
   - Hotline: 19001165 - nhánh 1
   - Tuyến: CITR03
-### Công ty Bảo Yến (*Công ty TNHH Du lịch dịch vụ xây dựng Bảo Yến*):
+### VinBus (*Công ty TNHH dịch vụ vận tải sinh thái Vinbus*)
+- Website: [VinBus](https://vinbus.vn/)
+- Hotline: 1900866663
+- Tuyến (buýt trợ giá): E01, E02, E03, E04, E05, E06, E07, E08, E09, E10, E11, 43
+- Tuyến (buýt nội khu): NIA, OCP1, OCP2, OCT1, OCT2, SMC1
+### Bảo Yến Bus(*Công ty TNHH Du lịch dịch vụ xây dựng Bảo Yến*):
 - Website: [Bảo Yến Bus](http://baoyenbus.com/)
 - Hotline: 024-71077777
 - Tuyến: 57, 58, 59, 60A, 60B, 61, 65, 142, 143, 144, 157, 158, 159, 160, 161, 162, 163
@@ -74,11 +79,6 @@
 - Hotline: 0362986298
 - Tuyến (buýt trợ giá): 118, 126
 - Tuyến (buýt không trợ giá): 70A, 70B, 213 (HB05)
-### VinBus (*Công ty TNHH dịch vụ vận tải sinh thái Vinbus*)
-- Website: [VinBus](https://vinbus.vn/)
-- Hotline: 1900866663
-- Tuyến (buýt trợ giá): E01, E02, E03, E04, E05, E06, E07, E08, E09, E10, E11, 43
-- Tuyến (buýt nội khu): NIA, OCP1, OCP2, OCT1, OCT2, SMC1
 ### CTCP Ngắm cảnh Việt Nam
 - Website: [Vietnam Sightseeing](https://vn-sightseeing.com/)
 - Hotline: 1900558865
