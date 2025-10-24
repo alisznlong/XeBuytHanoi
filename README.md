@@ -32,7 +32,7 @@
 ## 🚌 SỬ DỤNG DỊCH VỤ VTHKCC BẰNG XE BUÝT
 ### ⠀⠀● [CÂU HỎI THƯỜNG GẶP](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/extra/FAQ.md)
 ### ⠀⠀● [VI PHẠM](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/extra/ViPham.md)
-### ⠀⠀● [PHẢN ÁNH CHẤT LƯỢNG DỊCH VỤ XE BUÝT](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/extra/LienHe.md)
+### ⠀⠀● [PHẢN ÁNH CHẤT LƯỢNG DỊCH VỤ](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/extra/LienHe.md)
 
 ## 🚂 [MỞ RỘNG] TUYẾN TÀU ĐIỆN ĐÔ THỊ
 ### ⠀⠀● [DANH SÁCH TUYẾN](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/taudien/DanhSach.md)
