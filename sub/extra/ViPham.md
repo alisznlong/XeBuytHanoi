@@ -5,7 +5,7 @@ Các trường hợp khác không tính là vi phạm liên quan đến dịch v
 <details>
 <summary><b>XE BỎ LƯỢT/KHÔNG ĐÓN KHÁCH</b></summary>
   
-Ngoài các lí do khác được nêu tại [CÂU HỎI THƯỜNG GẶP](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/extra/FAQ.md), nếu xe buýt đang trong vận hành (*có khách trên xe*) nhưng không đón khách tại điểm, vui lòng phản ánh với đơn vị quản lý của tuyến hoặc TT Quản lý và Điều hành giao thông TP Hà Nội tại [đây](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/extra/VanDe.md#ph%E1%BA%A3n-%C3%A1nh-ch%E1%BA%A5t-l%C6%B0%E1%BB%A3ng-d%E1%BB%8Bch-v%E1%BB%A5).
+Ngoài các lí do khác được nêu tại [CÂU HỎI THƯỜNG GẶP](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/extra/FAQ.md), nếu xe buýt đang trong vận hành (*có khách trên xe*) nhưng không đón khách tại điểm, vui lòng phản ánh với đơn vị quản lý của tuyến hoặc TT Quản lý và Điều hành giao thông TP Hà Nội tại [đây](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/extra/LienHe.md#%C4%91%C6%B0%E1%BB%9Dng-%C4%91%C3%A2y-n%C3%B3ngli%C3%AAn-h%E1%BB%87-ph%E1%BA%A3n-%C3%A1nh-ch%E1%BA%A5t-l%C6%B0%E1%BB%A3ng-d%E1%BB%8Bch-v%E1%BB%A5).
 </details>
 
 ## 💳 THẺ VÉ
