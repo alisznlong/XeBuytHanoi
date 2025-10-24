@@ -30,9 +30,9 @@
 ### ⠀⠀● [THẺ ĐI XE BUÝT MIỄN PHÍ](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/theve/TheMienPhi.md)
 
 ## 🚌 SỬ DỤNG DỊCH VỤ VTHKCC BẰNG XE BUÝT
-### ⠀⠀● [CÂU HỎI THƯỜNG GẶP](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/buyt/FAQ.md)
-### ⠀⠀● [VI PHẠM](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/buyt/ViPham.md)
-### ⠀⠀● [PHẢN ÁNH CHẤT LƯỢNG DỊCH VỤ XE BUÝT](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/buyt/LienHe.md)
+### ⠀⠀● [CÂU HỎI THƯỜNG GẶP](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/extra/FAQ.md)
+### ⠀⠀● [VI PHẠM](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/extra/ViPham.md)
+### ⠀⠀● [PHẢN ÁNH CHẤT LƯỢNG DỊCH VỤ XE BUÝT](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/extra/LienHe.md)
 
 ## 🚂 [MỞ RỘNG] TUYẾN TÀU ĐIỆN ĐÔ THỊ
 ### ⠀⠀● [DANH SÁCH TUYẾN](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/taudien/DanhSach.md)
