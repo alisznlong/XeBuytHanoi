@@ -14,7 +14,7 @@ Ngoài các lí do khác được nêu tại [CÂU HỎI THƯỜNG GẶP](https:
   <br>
 
   - <ins>**BẢO QUẢN VÉ**</ins>: Khách hàng khi sử dụng vé lượt có trách nhiệm bảo quản vé trong suốt hành trình. Trong trường hợp khách hàng không thể xuất trình vé lượt đã mua khi được nhân viên phục vụ hoặc giám sát yêu cầu kiểm tra, khách hàng sẽ buộc phải mua lại vé lượt.
-  - <ins>**NHÂN VIÊN PHỤC VỤ ĐƯA VÉ CŨ**</ins>: NVPV đưa vé cũ (*vé đã bán cho người khác và bị xé sẵn*) được coi là hành vi lậu vé. Vui lòng phản ánh với đơn vị quản lý của tuyến hoặc TT Quản lý và Điều hành giao thông TP Hà Nội tại [đây](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/extra/VanDe.md#ph%E1%BA%A3n-%C3%A1nh-ch%E1%BA%A5t-l%C6%B0%E1%BB%A3ng-d%E1%BB%8Bch-v%E1%BB%A5).
+  - <ins>**NHÂN VIÊN PHỤC VỤ ĐƯA VÉ CŨ**</ins>: NVPV đưa vé cũ (*vé đã bán cho người khác và bị xé sẵn*) được coi là hành vi lậu vé. Vui lòng phản ánh với đơn vị quản lý của tuyến hoặc TT Quản lý và Điều hành giao thông TP Hà Nội tại [đây](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/extra/LienHe.md#%C4%91%C6%B0%E1%BB%9Dng-%C4%91%C3%A2y-n%C3%B3ngli%C3%AAn-h%E1%BB%87-ph%E1%BA%A3n-%C3%A1nh-ch%E1%BA%A5t-l%C6%B0%E1%BB%A3ng-d%E1%BB%8Bch-v%E1%BB%A5).
 </details>
 <details>
   <summary><b>VÉ THÁNG</b></summary>
