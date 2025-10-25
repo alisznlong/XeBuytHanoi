@@ -1,7 +1,7 @@
 # CÁC TUYẾN BUÝT CÓ TRỢ GIÁ
 
 > - Các tuyến VP01, VP08, VP09 không thuộc trợ giá của UBND TP Hà Nội, nên không áp dụng chính sách thẻ miễn phí và vé tháng xe buýt liên tuyến của TP Hà Nội.
-> - Các tuyến E08TC, E09TC, 02TC, 32TC1 triển khai tạm thời nhằm phục vụ Hội chợ mùa Thu năm 2025, dự kiến từ ngày 26/10 - 4/11.
+> - Các tuyến E08TC, E09TC, 02TC, 32TC triển khai tạm thời nhằm phục vụ Hội chợ mùa Thu năm 2025, dự kiến từ ngày 26/10 - 4/11.
 
 |Tuyến<br>—<br><sup>Màu nhận diện</sup>|Đầu A|Đầu B|Tần suất<br><sup>(*phút*)</sup>|Giá vé|Thời gian hoạt động|TGHĐ<br><sup>(*Cuối tuần*)</sup>|Đơn vị quản lý
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
