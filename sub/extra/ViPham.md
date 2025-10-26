@@ -31,6 +31,8 @@ Ngoài các lí do khác được nêu tại [CÂU HỎI THƯỜNG GẶP](https:
      - <ins>**TỪ CHỐI SỬ DỤNG**</ins>: NVPV có quyền từ chối sử dụng vé tháng của khách hàng nếu phát hiện các hành vi:
        - Vé quá cũ/biến dạng: Khách hàng sử dụng vé tháng quá cũ, không còn khả năng để nhận dạng thông tin người đăng ký.
    - **THẺ VÉ ẢO/PHI VẬT LÝ**
+ - <ins>**HỦY THẺ VÉ**</ins>: TT Quản lý và Điều hành giao thông TP Hà Nội có quyền hủy thẻ vé ảo/phi vật lý của khách hàng nếu phát hiện các hành vi:
+       - Mượn vé: Sử dụng vé tháng của người khác.
      - <ins>**TỪ CHỐI SỬ DỤNG**</ins>: NVPV có quyền từ chối sử dụng vé tháng của khách hàng nếu phát hiện các hành vi:
        - Mượn vé: Sử dụng vé tháng của người khác.
        - Sai hình thức: Khách hàng xuất trình thẻ vé ảo/phi vật lý dưới dạng ảnh chụp lại thay vì qua ứng dụng chính thức.
