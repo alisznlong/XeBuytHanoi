@@ -18,10 +18,10 @@
 > - Các tuyến chạy lộ trình dài hoặc có trùng điểm đầu cuối với các tuyến khác sẽ được bổ sung chi tiết lộ trình bằng kí tự **↔**, ví dụ  (E05/E07)
 </details>
 
-### ⠀⠀● [CÁC TUYẾN BUÝT CÓ TRỢ GIÁ](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/buyt/BuytTroGia.md)
-### ⠀⠀● [CÁC TUYẾN BUÝT KHÔNG TRỢ GIÁ](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/buyt/BuytKhongTroGia.md)
-### ⠀⠀● [CÁC TUYẾN BUÝT NỘI KHU/NỘI BỘ](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/buyt/BuytNoiKhu.md)
-### ⠀⠀● [CÁC TUYẾN BUÝT DU LỊCH](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/buyt/BuytDuLich.md)
+### ⠀⠀● [TUYẾN BUÝT CÓ TRỢ GIÁ](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/buyt/BuytTroGia.md)
+### ⠀⠀● [TUYẾN BUÝT KHÔNG TRỢ GIÁ](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/buyt/BuytKhongTroGia.md)
+### ⠀⠀● [TUYẾN BUÝT NỘI KHU/NỘI BỘ](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/buyt/BuytNoiKhu.md)
+### ⠀⠀● [TUYẾN BUÝT DU LỊCH](https://github.com/alisznlong/XeBuytHanoi/blob/main/sub/buyt/BuytDuLich.md)
 
 ## 🚌 [ỨNG DỤNG THEO DÕI LỘ TRÌNH XE BUÝT](link)
 
